@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 40849580-9734-49c5-80b1-dcfe6609833d
+      url: 'https://subtle-lolly-46d333.netlify.app'
