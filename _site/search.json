@@ -122,7 +122,14 @@
     "objectID": "home.html#contact",
     "href": "home.html#contact",
     "title": "About Jane",
-    "section": "Contact",
-    "text": "Contact\nEmail: janezou2013@gmail.com\nGitHub: github.com/jane-z-zou\nWebsite: janezou.netlify.app"
+    "section": "",
+    "text": "Email: janezou2013@gmail.com\nGitHub: github.com/jane-z-zou\nWebsite: janezou.netlify.app"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "About Jane",
+    "section": "",
+    "text": "As a student at UCLA pursuing a capstone major in Statistics and Data Science, I possess a strong foundation in statistical analysis and data interpretation. I am one of nineteen nationwide Products and Technology Intern at PwC, where I applying my data analytics and business skills to a real-world pro bono consulting project.\nThrough machine learning techniques, I provide insightful recommendations to our DataResolution clients. Additionally, I have project management experience through my work with American Express and a Google-sponsored Kaggle competition.\nOutside of my academic and professional pursuits, I enjoy reading, walking with my family, and journaling to reflect.\n\n\nEmail: janezou2013@gmail.com\nGitHub: github.com/jane-z-zou\nWebsite: janezou.netlify.app"
   }
 ]
