@@ -11,9 +11,7 @@ website:
       - href: projects.qmd
         text: Projects
       - href: awards.qmd
-        text: Awards
-      - href: contact.qmd
-        text: Contact
+        text: Professional Profile
 
 format:
   html:
