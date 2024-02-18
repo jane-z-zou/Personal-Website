@@ -5,7 +5,7 @@ website:
   navbar:
     left:
       - href: home.qmd
-        text: Home Page
+        text: Home
       - href: exp.qmd
         text: Experience
       - href: projects.qmd
