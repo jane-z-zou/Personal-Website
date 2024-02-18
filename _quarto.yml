@@ -10,7 +10,7 @@ website:
         text: Experience
       - href: projects.qmd
         text: Projects
-      - href: awards.qmd
+      - href: prof.qmd
         text: Professional Profile
 
 format:
