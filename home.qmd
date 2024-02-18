@@ -1,4 +1,4 @@
-# About Jane
+## About Me
 
 As a student at UCLA pursuing a capstone major in Statistics and Data Science, I possess a strong foundation in statistical analysis and data interpretation. I am one of nineteen nationwide Products and Technology Intern at PwC, where I applying my data analytics and business skills to a real-world pro bono consulting project.
 
