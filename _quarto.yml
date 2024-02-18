@@ -6,11 +6,14 @@ website:
     left:
       - href: home.qmd
         text: Home
+      - href: exp.qmd
+        text: Experience
       - href: projects.qmd
         text: Projects
-      - href: about.qmd
-        text: Bio
-
+      - href: awards.qmd
+        text: Awards
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
