@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#home",
-    "href": "index.html#home",
-    "title": "",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Sustainable Los Angeles Grand Challenge\n\n2024 Energy Report Card\n\n\nResearch Assistant\n\n\nSeptember 2023 - Present\n\n\n\nContribute to innovative projects aimed at addressing environmental challenges in the Los Angeles area.\nStrong analytical skills and passion for making a positive impact on local communities through research and collaboration.\n\n\n\n\nDataResolutions\n\nChelle AI\n\n\nProject Lead\n\n\nJanuary 2024 - Present\n\n\n\nDeveloped knowledge graphs by extracting and structuring data from NextJS using web scraping techniques in Python.\nUtilized NetworkX library to construct and analyze the graph representations, enabling the visualization and exploration of relationships among the extracted entities and their attributes.\n\n\n\nOkTY\n\n\nProject Lead\n\n\nSeptember 2023 - December 2023\n\n\n\nLed a team of five in the comprehensive cleansing and analysis of five diverse datasets containing financial and merchant information, spanning a two-year snapshot of spending data, uncovering nuanced trends in user spending habits, including location-based patterns and distinctive merchant preferences.\n\n\n\nSARE Ladies\n\n\nProject Consultant\n\n\nApril 2023 - June 2023\n\n\n\nApplied label encoding to survey responses dataset, assigning unique numerical values to each category.\nDeveloped a random forest feature importance ranking model to identify characteristics impacting the confidence of survey respondents, focusing on ethnicity and whether they identify as real estate investors.\n\n\n\nEpiData\n\n\nProject Lead\n\n\nSeptember 2022 - March 2023\n\n\n\nLed a team of five in the development of a machine learning pipeline for streaming Internet of Things (IoT) data utilizing the EpiData platform.\nSuccessfully implemented various regression and classification models, resulting in insightful findings from the streaming data collected from a wireless home sensor and time step accelerator.\n\n\n\nHomeDescription\n\n\nProject Consultant\n\n\nJanuary 2022 - June 2022\n\n\n\nDeveloped a custom three-dimensional scatterplot function in my programming work to effectively visualize trends between two variables of interest and price\nGenerated correlograms to illustrate correlation coefficients between the relevant variables\nConducted web scraping and HTML parsing on Zillow data.\n\n\n\nSavi\n\n\nProject Consultant\n\n\nOctober 2021 - December 2021\n\n\n\nDeveloped a heatmap visualization in Python to model correlations between variables of interest and user paid conversion rate, alongside creating histograms to assess the impact of marital status on binary payment status.\n\n\n\n\nNational Student Data Corp\n\nPedestrian IoT Analysis\n\n\nProject Lead\n\n\nJuly 2023 - September 2023\n\n\n\nSpearheaded cross-functional data science teams, providing strategic direction and overseeing end-to-end project execution to ensure the timely delivery of data-driven solutions.\nLed the conception and execution of pedestrian data analysis, culminating in a successful showcase.\nProficient in implementing Agile method- ologies to optimize project workflows, leveraging expertise in machine learning techniques and algorithms to guide the development of predictive models\nImplemented process improvements and best practices, enhancing efficiency and effectiveness in project execution.\n\n\n\n\nEpicenter for Action Research\n\nParkLink\n\n\nProject Manager\n\n\nMarch 2023 - May 2023\n\n\n\nLed the development of a user-friendly platform for reserving affordable parking spots for the LA Olympics 2028, utilizing UX design expertise.\nConducted user research, created wireframes, and performed competitive analysis.\nProficient in Figma for designing wireframes, mockups, and prototypes. - Applied user-centered design principles, conducted market research, and translated business objectives into actionable design solutions.\nApplied design thinking methodologies to drive innovation and problem-solving.\n\n\n\n\nQWER Hacks\n\n\nProject Manager\n\n\nJanuary 2023\n\n\n\nDesigned and prototyped “Homeless Simulator,” a web and mobile app game addressing the experiences of houselessness for queer women of color in LA.\nDeveloped storyline and character biographies, utilizing sto- ryboards, graphic design, and game scripts to shape the narrative.\nProficient in troubleshooting code bugs in React JS projects in localhost environments.\nSecured first place in the housing insecurity track, earning the Major League Hacking fellowship interview fast-track certificate.\nExperienced in producing and designing video game scripts.\nSkilled in written and verbal communication, including interviewing leading experts in public policy and public health researchers.\n\n\n\nAmerican Statistical Association DataFest\n\n\nProject Manager, Developer\n\n\nMay 2022\n\n\n\nCreated data visualization models to illustrate correlations within drug resistance efficacy player datasets and conducted research on adolescent behavior and video game prevention programs.\nProficient in Python for data visualization, cleaning, and analytics using Matplotlib, Seaborn, and Pandas.\nExperienced in collaborative team environments, including delegation, presentation, and project debriefing.\nDemonstrated strong public speaking and presentation skills through industry presentations on ML models.\n\n\n\nInnovate@UCLA\n\nHYREUS\n\n\nProject Manager\n\n\nMarch 2022 - May 2022\n\n\n\nDirected the development of a user-friendly recruiting platform designed for young adult job seekers.\nConducted user research, devised wireframes, and executed competitive analysis.\nProficient in Figma for crafting wireframes, mockups, and prototypes. - Applied user-centric design principles, conducted market research, and translated business goals into practical design solutions.\nEmployed design thinking methodologies to foster innovation and problem-solving."
-  },
-  {
     "objectID": "exp.html",
     "href": "exp.html",
     "title": "Experience",
     "section": "",
     "text": "Research Assistant\n\n\nMay 2023 - Present\n\n\n\nAutomated visual field and display examination detection by imputing over three decades of missing patient data, enhancing diagnostic accuracy.\nAchieved a 30% improvement in model reliability through cross- functional collaboration and fine-tuning.\nIntegrated advanced AI models into clinical workflows, optimizing healthcare operations.\nEnhanced healthcare datasets by merging NHANES and CDC data sheets, updating inclusion criteria, and conducting statistical analyses."
-  },
-  {
-    "objectID": "awards.html",
-    "href": "awards.html",
-    "title": "Professional Profile",
-    "section": "",
-    "text": "Visa & Society of Women Engineers Scholarship\n\n\nMay 2023\n\n\n\n\nThird Place Break Through Tech AI @ UCLA, MIT, Cornell Tech AI Studio\n\n\nMarch 2023\n\n\n\n\nUCLA Machine Learning Top Contributor\n\n\nMarch 2023\n\n\n\n\nMajor League Hacking Housing Insecurity First Place\n\n\nFebruary 2023\n\n\n\n\nMajor League Hacking Best Mobile App\n\n\nFebruary 2023\n\n\n\n\nOrange County Centennial Scholarship\n\n\nAugust 2021\n\n\n\n\nNCWIT Aspirations in Computing Affiliate Honorable Mention\n\n\nJune 2021\n\n\n\n\nAzusa Pacific University President’s Scholarship\n\n\nJune 2021\n\n\n\n\nVoice of Democracy Post 10694 Santa Ana First Place\n\n\nJune 2021"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Awards",
-    "section": "",
-    "text": "Here you can demonstrate your projects\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "exp.html#jules-stein-eye-institute",
@@ -70,25 +28,130 @@
     "text": "American Express\n\n\nMachine Learning Intern\n\n\nJune 2022 - December 2022\n\n\n\nLed a team of three in developing an end-to-end machine learning pipeline employing unsupervised learning techniques.\nCalculated arrival probability from consumer campaign data to optimize marketing investment, identifying high ROI consumers.\nProficient in Python libraries including Pandas, NumPy, and Scikit-learn, utilized various machine learning techniques such as decision trees, neural networks, and ensemble methods like random forests for model development in Jupyter Notebook."
   },
   {
-    "objectID": "awards.html#awards",
-    "href": "awards.html#awards",
-    "title": "Professional Profile",
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Projects",
     "section": "",
-    "text": "Visa & Society of Women Engineers Scholarship\n\n\nMay 2023\n\n\n\n\nThird Place Break Through Tech AI @ UCLA, MIT, Cornell Tech AI Studio\n\n\nMarch 2023\n\n\n\n\nUCLA Machine Learning Top Contributor\n\n\nMarch 2023\n\n\n\n\nMajor League Hacking Housing Insecurity First Place\n\n\nFebruary 2023\n\n\n\n\nMajor League Hacking Best Mobile App\n\n\nFebruary 2023\n\n\n\n\nOrange County Centennial Scholarship\n\n\nAugust 2021\n\n\n\n\nNCWIT Aspirations in Computing Affiliate Honorable Mention\n\n\nJune 2021\n\n\n\n\nAzusa Pacific University President’s Scholarship\n\n\nJune 2021\n\n\n\n\nVoice of Democracy Post 10694 Santa Ana First Place\n\n\nJune 2021"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\n\n\n\n\n11th Annual ASA DataFest\n\n\n\n\n12th Annual ASA DataFest\n\n\n\n\nChelle AI\n\n\n\n\nEpiData\n\n\n\n\nHYREUS\n\n\n\n\nHomeDescription\n\n\n\n\nHomeless Simulator\n\n\n\n\nOkTY\n\n\n\n\nParkLink\n\n\n\n\nPedestrian IoT Analysis\n\n\n\n\nSARE Ladies\n\n\n\n\nSavi\n\n\n\n\nSustainable Los Angeles Grand Challenge\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "awards.html#professional-membership",
-    "href": "awards.html#professional-membership",
-    "title": "Professional Profile",
-    "section": "Professional Membership",
-    "text": "Professional Membership\n\n\nUndergraduate Research Scholars Program\n\n\n2023 - 2024\n\n\n\n\nUndergraduate Mathematics Council\n\n\n2022 - 2024\n\n\n\n\nCollege Scholars program\n\n\n2021 - 2024\n\n\n\n\nDataResolutions\n\n\n2021 - 2024\n\n\n\n\nNational Student Data Corp\n\n\n2023\n\n\n\n\nInnovate@UCLA\n\n\n2022 - 2023\n\n\n\n\nSociety of Women Engineers\n\n\n2021 - 2023"
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Home",
+    "section": "",
+    "text": "As a student at UCLA pursuing a capstone major in Statistics and Data Science, I possess a strong foundation in statistical analysis and data interpretation. I am a Data Scientist at PwC, where I applying my data analytics and business skills to real-world consulting projects. Attached is my current CV and Resumé.\nThrough machine learning techniques, I provide insightful recommendations to our DataResolution clients. Additionally, I have project management experience through my work with American Express and a Google-sponsored Kaggle competition.\nOutside of the office, I enjoy reading, walking with my mom, and crocheting."
   },
   {
-    "objectID": "awards.html#technical-skills",
-    "href": "awards.html#technical-skills",
-    "title": "Professional Profile",
-    "section": "Technical Skills",
-    "text": "Technical Skills\nProgramming Languages: Python, R, Tableau, Power BI, Git, Microsoft Excel, HTML, NetworkX\nMachine Learning: Gradient Boosting, Clustering, Collaborative Filtering, Natural Language Processing (NLP), Artificial Intelligence Safety and Ethics, Time Series Analysis, and Feature Engineering\nBusiness and Domain Knowledge: Figma, NetSuite, Product Management, Agile and Scrum Methodologies"
+    "objectID": "home.html#about-me",
+    "href": "home.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "As a student at UCLA pursuing a capstone major in Statistics and Data Science, I possess a strong foundation in statistical analysis and data interpretation. I am a Data Scientist at PwC, where I applying my data analytics and business skills to real-world consulting projects. Attached is my current CV and Resumé.\nThrough machine learning techniques, I provide insightful recommendations to our DataResolution clients. Additionally, I have project management experience through my work with American Express and a Google-sponsored Kaggle competition.\nOutside of the office, I enjoy reading, walking with my mom, and crocheting."
+  },
+  {
+    "objectID": "blogs/post_hyreus.html",
+    "href": "blogs/post_hyreus.html",
+    "title": "HYREUS",
+    "section": "",
+    "text": "Project Manager\n\n\nMarch 2022 - May 2022\n\n\n\nDirected the development of a user-friendly recruiting platform designed for young adult job seekers.\nConducted user research, devised wireframes, and executed competitive analysis.\nProficient in Figma for crafting wireframes, mockups, and prototypes. - Applied user-centric design principles, conducted market research, and translated business goals into practical design solutions.\nEmployed design thinking methodologies to foster innovation and problem-solving.\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\nFigure 2"
+  },
+  {
+    "objectID": "blogs/post_slagc.html",
+    "href": "blogs/post_slagc.html",
+    "title": "Sustainable Los Angeles Grand Challenge",
+    "section": "",
+    "text": "Research Assistant\n\n\nSeptember 2023 - Present\n\n\n\nContribute to innovative projects aimed at addressing environmental challenges in the Los Angeles area.\nStrong analytical skills and passion for making a positive impact on local communities through research and collaboration."
+  },
+  {
+    "objectID": "blogs/post_slagc.html#energy-report-card",
+    "href": "blogs/post_slagc.html#energy-report-card",
+    "title": "Sustainable Los Angeles Grand Challenge",
+    "section": "",
+    "text": "Research Assistant\n\n\nSeptember 2023 - Present\n\n\n\nContribute to innovative projects aimed at addressing environmental challenges in the Los Angeles area.\nStrong analytical skills and passion for making a positive impact on local communities through research and collaboration."
+  },
+  {
+    "objectID": "blogs/post_homedescription.html",
+    "href": "blogs/post_homedescription.html",
+    "title": "HomeDescription",
+    "section": "",
+    "text": "Project Consultant\n\n\nJanuary 2022 - June 2022\n\n\n\nDeveloped a custom three-dimensional scatterplot function in my programming work to effectively visualize trends between two variables of interest and price\nGenerated correlograms to illustrate correlation coefficients between the relevant variables\nConducted web scraping and HTML parsing on Zillow data.\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\nFigure 2"
+  },
+  {
+    "objectID": "blogs/post_ped.html",
+    "href": "blogs/post_ped.html",
+    "title": "Pedestrian IoT Analysis",
+    "section": "",
+    "text": "Project Lead\n\n\nJuly 2023 - September 2023\n\n\n\nSpearheaded cross-functional data science teams, providing strategic direction and overseeing end-to-end project execution to ensure the timely delivery of data-driven solutions.\nLed the conception and execution of pedestrian data analysis, culminating in a successful showcase.\nProficient in implementing Agile method- ologies to optimize project workflows, leveraging expertise in machine learning techniques and algorithms to guide the development of predictive models\nImplemented process improvements and best practices, enhancing efficiency and effectiveness in project execution.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "blogs/post_12datafest.html",
+    "href": "blogs/post_12datafest.html",
+    "title": "12th Annual ASA DataFest",
+    "section": "",
+    "text": "Lead Developer\n\n\nMay 2023\n\n\n\nCreated data visualization models to illustrate correlations within attorney recruitment and utilization datasets and conducted research on demographic and location match for lawyers.\nProficient in Python for data visualization, cleaning, and analytics using Matplotlib, Seaborn, and Pandas.\nExperienced in collaborative team environments, including delegation, presentation, and project debriefing.\nDemonstrated strong public speaking and presentation skills through industry presentations on ML models.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "blogs/post_savi.html",
+    "href": "blogs/post_savi.html",
+    "title": "Savi",
+    "section": "",
+    "text": "Project Consultant\n\n\nOctober 2021 - December 2021\n\n\n\nDeveloped a heatmap visualization in Python to model correlations between variables of interest and user paid conversion rate, alongside creating histograms to assess the impact of marital status on binary payment status.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "blogs/post_11datafest.html",
+    "href": "blogs/post_11datafest.html",
+    "title": "11th Annual ASA DataFest",
+    "section": "",
+    "text": "Developer\n\n\nMay 2022\n\n\n\nCreated data visualization models to illustrate correlations within drug resistance efficacy player datasets and conducted research on adolescent behavior and video game prevention programs.\nProficient in Python for data visualization, cleaning, and analytics using Matplotlib, Seaborn, and Pandas.\nExperienced in collaborative team environments, including delegation, presentation, and project debriefing.\nDemonstrated strong public speaking and presentation skills through industry presentations on ML models.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "blogs/post_chelle.html",
+    "href": "blogs/post_chelle.html",
+    "title": "Chelle AI",
+    "section": "",
+    "text": "Project Lead\n\n\nJanuary 2024 - Present\n\n\n\nDeveloped knowledge graphs by extracting and structuring data from NextJS using web scraping techniques in Python.\nUtilized NetworkX library to construct and analyze the graph representations, enabling the visualization and exploration of relationships among the extracted entities and their attributes."
+  },
+  {
+    "objectID": "blogs/post_sare.html",
+    "href": "blogs/post_sare.html",
+    "title": "SARE Ladies",
+    "section": "",
+    "text": "Project Consultant\n\n\nApril 2023 - June 2023\n\n\n\nApplied label encoding to survey responses dataset, assigning unique numerical values to each category.\nDeveloped a random forest feature importance ranking model to identify characteristics impacting the confidence of survey respondents, focusing on ethnicity and whether they identify as real estate investors.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "blogs/post_okty.html",
+    "href": "blogs/post_okty.html",
+    "title": "OkTY",
+    "section": "",
+    "text": "Project Lead\n\n\nSeptember 2023 - December 2023\n\n\n\nLed a team of five in the comprehensive cleansing and analysis of five diverse datasets containing financial and merchant information, spanning a two-year snapshot of spending data, uncovering nuanced trends in user spending habits, including location-based patterns and distinctive merchant preferences.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "blogs/post_epidata.html",
+    "href": "blogs/post_epidata.html",
+    "title": "EpiData",
+    "section": "",
+    "text": "Project Lead\n\n\nSeptember 2022 - March 2023\n\n\n\nLed a team of five in the development of a machine learning pipeline for streaming Internet of Things (IoT) data utilizing the EpiData platform.\nSuccessfully implemented various regression and classification models, resulting in insightful findings from the streaming data collected from a wireless home sensor and time step accelerator.\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\nFigure 2"
+  },
+  {
+    "objectID": "blogs/post_parklink.html",
+    "href": "blogs/post_parklink.html",
+    "title": "ParkLink",
+    "section": "",
+    "text": "Project Manager\n\n\nMarch 2023 - May 2023\n\n\n\nLed the development of a user-friendly platform for reserving affordable parking spots for the LA Olympics 2028, utilizing UX design expertise.\nConducted user research, created wireframes, and performed competitive analysis.\nProficient in Figma for designing wireframes, mockups, and prototypes. - Applied user-centered design principles, conducted market research, and translated business objectives into actionable design solutions.\nApplied design thinking methodologies to drive innovation and problem-solving.\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\nFigure 2"
+  },
+  {
+    "objectID": "blogs/post_homeless.html",
+    "href": "blogs/post_homeless.html",
+    "title": "Homeless Simulator",
+    "section": "",
+    "text": "Project Manager\n\n\nJanuary 2023\n\n\n\nDesigned and prototyped “Homeless Simulator,” a web and mobile app game addressing the experiences of houselessness for queer women of color in LA.\nDeveloped storyline and character biographies, utilizing sto- ryboards, graphic design, and game scripts to shape the narrative.\nProficient in troubleshooting code bugs in React JS projects in localhost environments.\nSecured first place in the housing insecurity track, earning the Major League Hacking fellowship interview fast-track certificate.\nExperienced in producing and designing video game scripts.\nSkilled in written and verbal communication, including interviewing leading experts in public policy and public health researchers."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "American Statistical Association DataFest\n\n\nProject Manager, Developer\n\n\nMay 2022\n\n\n\nCreated data visualization models to illustrate correlations within drug resistance efficacy player datasets and conducted research on adolescent behavior and video game prevention programs.\nProficient in Python for data visualization, cleaning, and analytics using Matplotlib, Seaborn, and Pandas.\nExperienced in collaborative team environments, including delegation, presentation, and project debriefing.\nDemonstrated strong public speaking and presentation skills through industry presentations on ML models.\n\n\n\nInnovate@UCLA\n\nHYREUS\n\n\nProject Manager\n\n\nMarch 2022 - May 2022\n\n\n\nDirected the development of a user-friendly recruiting platform designed for young adult job seekers.\nConducted user research, devised wireframes, and executed competitive analysis.\nProficient in Figma for crafting wireframes, mockups, and prototypes. - Applied user-centric design principles, conducted market research, and translated business goals into practical design solutions.\nEmployed design thinking methodologies to foster innovation and problem-solving."
   },
   {
     "objectID": "prof.html",
@@ -117,26 +180,5 @@
     "title": "Professional Profile",
     "section": "Technical Skills",
     "text": "Technical Skills\nProgramming Languages: Python, R, Tableau, Power BI, Git, Microsoft Excel, HTML, NetworkX\nMachine Learning: Gradient Boosting, Clustering, Collaborative Filtering, Natural Language Processing (NLP), Artificial Intelligence Safety and Ethics, Time Series Analysis, and Feature Engineering\nBusiness and Domain Knowledge: Figma, NetSuite, Product Management, Agile and Scrum Methodologies"
-  },
-  {
-    "objectID": "home.html#contact",
-    "href": "home.html#contact",
-    "title": "Home",
-    "section": "Contact",
-    "text": "Contact\nEmail: janezou2013@gmail.com\nGitHub: jane-z-zou"
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "Home",
-    "section": "",
-    "text": "As a student at UCLA pursuing a capstone major in Statistics and Data Science, I possess a strong foundation in statistical analysis and data interpretation. I am one of 19 nationwide Products and Technology Intern at PwC, where I applying my data analytics and business skills to a real-world pro bono consulting project.\nThrough machine learning techniques, I provide insightful recommendations to our DataResolution clients. Additionally, I have project management experience through my work with American Express and a Google-sponsored Kaggle competition.\nOutside of my academic and professional pursuits, I enjoy reading, walking with my family, and journaling to reflect."
-  },
-  {
-    "objectID": "home.html#about-me",
-    "href": "home.html#about-me",
-    "title": "Home",
-    "section": "",
-    "text": "As a student at UCLA pursuing a capstone major in Statistics and Data Science, I possess a strong foundation in statistical analysis and data interpretation. I am one of 19 nationwide Products and Technology Intern at PwC, where I applying my data analytics and business skills to a real-world pro bono consulting project.\nThrough machine learning techniques, I provide insightful recommendations to our DataResolution clients. Additionally, I have project management experience through my work with American Express and a Google-sponsored Kaggle competition.\nOutside of my academic and professional pursuits, I enjoy reading, walking with my family, and journaling to reflect."
   }
 ]

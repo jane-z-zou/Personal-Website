@@ -1,0 +1,20 @@
+---
+title: Homeless Simulator
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Project Manager*
+:::
+
+::: {style="float: right;"}
+January 2023
+:::
+:::
+
+-   Designed and prototyped "Homeless Simulator," a web and mobile app game addressing the experiences of houselessness for queer women of color in LA.
+-   Developed storyline and character biographies, utilizing sto- ryboards, graphic design, and game scripts to shape the narrative.
+-   Proficient in troubleshooting code bugs in React JS projects in localhost environments.
+-   Secured first place in the housing insecurity track, earning the Major League Hacking fellowship interview fast-track certificate.
+-   Experienced in producing and designing video game scripts.
+-   Skilled in written and verbal communication, including interviewing leading experts in public policy and public health researchers.

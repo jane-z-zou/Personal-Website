@@ -1,0 +1,22 @@
+---
+title: SARE Ladies
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Project Consultant*
+:::
+
+::: {style="float: right;"}
+April 2023 - June 2023
+:::
+:::
+
+-   Applied label encoding to survey responses dataset, assigning unique numerical values to each category.
+-   Developed a random forest feature importance ranking model to identify characteristics impacting the confidence of survey respondents, focusing on ethnicity and whether they identify as real estate investors.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="SARE Ladies PPT Deliverable.pdf">
+
+</iframe>
+:::

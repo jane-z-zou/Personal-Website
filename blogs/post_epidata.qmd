@@ -1,0 +1,29 @@
+---
+title: EpiData
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Project Lead*
+:::
+
+::: {style="float: right;"}
+September 2022 - March 2023
+:::
+:::
+
+-   Led a team of five in the development of a machine learning pipeline for streaming Internet of Things (IoT) data utilizing the EpiData platform.
+-   Successfully implemented various regression and classification models, resulting in insightful findings from the streaming data collected from a wireless home sensor and time step accelerator.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="EpiData F22 Demo Day Slides.pdf">
+
+</iframe>
+:::
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="EpiData W23 Demo Day Slides.pdf">
+
+</iframe>
+:::
+

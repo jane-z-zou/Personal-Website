@@ -1,0 +1,21 @@
+---
+title: Savi
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Project Consultant*
+:::
+
+::: {style="float: right;"}
+October 2021 - December 2021
+:::
+:::
+
+-   Developed a heatmap visualization in Python to model correlations between variables of interest and user paid conversion rate, alongside creating histograms to assess the impact of marital status on binary payment status.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="Savi.pdf">
+
+</iframe>
+:::

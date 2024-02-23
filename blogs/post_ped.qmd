@@ -1,0 +1,24 @@
+---
+title: Pedestrian IoT Analysis
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Project Lead*
+:::
+
+::: {style="float: right;"}
+July 2023 - September 2023
+:::
+:::
+
+-   Spearheaded cross-functional data science teams, providing strategic direction and overseeing end-to-end project execution to ensure the timely delivery of data-driven solutions.
+-   Led the conception and execution of pedestrian data analysis, culminating in a successful showcase.
+-   Proficient in implementing Agile method- ologies to optimize project workflows, leveraging expertise in machine learning techniques and algorithms to guide the development of predictive models
+-   Implemented process improvements and best practices, enhancing efficiency and effectiveness in project execution.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="Data Drivers - Pedestrian NSDC Deliverable.pdf">
+
+</iframe>
+:::

@@ -1,0 +1,21 @@
+---
+title: OkTY
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Project Lead*
+:::
+
+::: {style="float: right;"}
+September 2023 - December 2023
+:::
+:::
+
+-   Led a team of five in the comprehensive cleansing and analysis of five diverse datasets containing financial and merchant information, spanning a two-year snapshot of spending data, uncovering nuanced trends in user spending habits, including location-based patterns and distinctive merchant preferences.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="OkTY Fall 2023 Deliverable - DataRes.pdf">
+
+</iframe>
+:::

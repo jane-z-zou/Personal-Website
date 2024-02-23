@@ -1,0 +1,29 @@
+---
+title: HomeDescription
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Project Consultant*
+:::
+
+::: {style="float: right;"}
+January 2022 - June 2022
+:::
+:::
+
+-   Developed a custom three-dimensional scatterplot function in my programming work to effectively visualize trends between two variables of interest and price
+-   Generated correlograms to illustrate correlation coefficients between the relevant variables
+-   Conducted web scraping and HTML parsing on Zillow data.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="HD1.pdf">
+
+</iframe>
+:::
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="HD2.pdf">
+
+</iframe>
+:::

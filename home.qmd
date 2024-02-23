@@ -1,17 +1,27 @@
 ---
-title: "Home"
+toc: false
+about: 
+  template: trestles
+  links: 
+  - icon: linkedin
+    text: LinkedIn
+    url: https://www.linkedin.com/in/jane-zou-datascience/
+  - icon: github
+    text: GitHub
+    url: https://github.com/jane-z-zou
+  - icon: email
+    text: Email
+    url: mailto:janezou2013@gmail.com
+
+image: pfp.png
 ---
+
+# Home
 
 ## About Me
 
-As a student at UCLA pursuing a capstone major in Statistics and Data Science, I possess a strong foundation in statistical analysis and data interpretation. I am one of 19 nationwide Products and Technology Intern at PwC, where I applying my data analytics and business skills to a real-world pro bono consulting project.
+As a student at UCLA pursuing a capstone major in Statistics and Data Science, I possess a strong foundation in statistical analysis and data interpretation. I am a Data Scientist at PwC, where I applying my data analytics and business skills to real-world consulting projects. Attached is my current [CV](/DOCS/CV.pdf "CV") and [Resumé](/DOCS/Zou,Jane Resume.pdf "Zou,Jane Resume").
 
 Through machine learning techniques, I provide insightful recommendations to our DataResolution clients. Additionally, I have project management experience through my work with American Express and a Google-sponsored Kaggle competition.
 
-Outside of my academic and professional pursuits, I enjoy reading, walking with my family, and journaling to reflect.
-
-## Contact
-
-**Email**: [janezou2013@gmail.com](mailto:janezou2013@gmail.com)
-
-**GitHub**: [jane-z-zou](https://github.com/jane-z-zou/)
+Outside of the office, I enjoy reading, walking with my mom, and crocheting.

@@ -4,91 +4,171 @@ title: "Professional Profile"
 
 ## Awards
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Visa & Society of Women Engineers Scholarship</div>
-  <div style="float: right;">May 2023</div>
-</div>
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Visa & Society of Women Engineers Scholarship
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Third Place Break Through Tech AI @ UCLA, MIT, Cornell Tech AI Studio</div>
-  <div style="float: right;">March 2023</div>
-</div>
+::: {style="float: right;"}
+May 2023
+:::
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">UCLA Machine Learning Top Contributor</div>
-  <div style="float: right;">March 2023</div>
-</div>
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Third Place Break Through Tech AI \@ UCLA, MIT, Cornell Tech AI Studio
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Major League Hacking Housing Insecurity First Place</div>
-  <div style="float: right;">February 2023</div>
-</div>
+::: {style="float: right;"}
+March 2023
+:::
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Major League Hacking Best Mobile App</div>
-  <div style="float: right;">February 2023</div>
-</div>
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+UCLA Machine Learning Top Contributor
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Orange County Centennial Scholarship</div>
-  <div style="float: right;">August 2021</div>
-</div>
+::: {style="float: right;"}
+March 2023
+:::
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">NCWIT Aspirations in Computing Affiliate Honorable Mention</div>
-  <div style="float: right;">June 2021</div>
-</div>
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Major League Hacking Housing Insecurity First Place
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Azusa Pacific University President's Scholarship</div>
-  <div style="float: right;">June 2021</div>
-</div>
+::: {style="float: right;"}
+February 2023
+:::
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Voice of Democracy Post 10694 Santa Ana First Place</div>
-  <div style="float: right;">June 2021</div>
-</div>
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Major League Hacking Best Mobile App
+:::
+
+::: {style="float: right;"}
+February 2023
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Orange County Centennial Scholarship
+:::
+
+::: {style="float: right;"}
+August 2021
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+NCWIT Aspirations in Computing Affiliate Honorable Mention
+:::
+
+::: {style="float: right;"}
+June 2021
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Azusa Pacific University President's Scholarship
+:::
+
+::: {style="float: right;"}
+June 2021
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Voice of Democracy Post 10694 Santa Ana First Place
+:::
+
+::: {style="float: right;"}
+June 2021
+:::
+:::
 
 ## Professional Membership
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Undergraduate Research Scholars Program</div>
-  <div style="float: right;">2023 - 2024</div>
-</div>
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Undergraduate Research Scholars Program
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Undergraduate Mathematics Council</div>
-  <div style="float: right;">2022 - 2024</div>
-</div>
+::: {style="float: right;"}
+2023 - 2024
+:::
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">College Scholars program</div>
-  <div style="float: right;">2021 - 2024</div>
-</div>
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Undergraduate Mathematics Council
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">DataResolutions</div>
-  <div style="float: right;">2021 - 2024</div>
-</div>
+::: {style="float: right;"}
+2022 - 2024
+:::
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">National Student Data Corp</div>
-  <div style="float: right;">2023</div>
-</div>
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+College Scholars program
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Innovate@UCLA</div>
-  <div style="float: right;">2022 - 2023</div>
-</div>
+::: {style="float: right;"}
+2021 - 2024
+:::
+:::
 
-<div style="overflow: hidden;">
-  <div style="float: left;">Society of Women Engineers</div>
-  <div style="float: right;">2021 - 2023</div>
-</div>
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+DataResolutions
+:::
+
+::: {style="float: right;"}
+2021 - 2024
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+National Student Data Corp
+:::
+
+::: {style="float: right;"}
+2023
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Innovate\@UCLA
+:::
+
+::: {style="float: right;"}
+2022 - 2023
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Society of Women Engineers
+:::
+
+::: {style="float: right;"}
+2021 - 2023
+:::
+:::
 
 ## Technical Skills
 
-**Programming Languages:** Python, R, Tableau, Power BI, Git, Microsoft Excel, HTML, NetworkX 
+**Programming Languages:** Python, R, Tableau, Power BI, Git, Microsoft Excel, HTML, NetworkX
 
 **Machine Learning:** Gradient Boosting, Clustering, Collaborative Filtering, Natural Language Processing (NLP), Artificial Intelligence Safety and Ethics, Time Series Analysis, and Feature Engineering
 

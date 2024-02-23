@@ -1,0 +1,16 @@
+---
+title: Chelle AI
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Project Lead*
+:::
+
+::: {style="float: right;"}
+January 2024 - Present
+:::
+:::
+
+-   Developed knowledge graphs by extracting and structuring data from NextJS using web scraping techniques in Python.
+-   Utilized NetworkX library to construct and analyze the graph representations, enabling the visualization and exploration of relationships among the extracted entities and their attributes.

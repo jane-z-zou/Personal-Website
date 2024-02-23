@@ -8,10 +8,13 @@ website:
         text: Home
       - href: exp.qmd
         text: Experience
-      - href: projects.qmd
+      - href: blogs.qmd
         text: Projects
       - href: prof.qmd
         text: Professional Profile
+
+  page-footer:
+    right: "&copy; 2024, Jane Zou"
 
 format:
   html:

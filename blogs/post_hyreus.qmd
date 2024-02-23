@@ -1,0 +1,31 @@
+---
+title: HYREUS
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Project Manager*
+:::
+
+::: {style="float: right;"}
+March 2022 - May 2022
+:::
+:::
+
+-   Directed the development of a user-friendly recruiting platform designed for young adult job seekers.
+-   Conducted user research, devised wireframes, and executed competitive analysis.
+-   Proficient in Figma for crafting wireframes, mockups, and prototypes. - Applied user-centric design principles, conducted market research, and translated business goals into practical design solutions.
+-   Employed design thinking methodologies to foster innovation and problem-solving.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="Team-SocialTech1-Pitch-Deck.pdf">
+
+</iframe>
+:::
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="Team-SocialTech1-Readme.pdf">
+
+</iframe>
+:::
+

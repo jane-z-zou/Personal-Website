@@ -1,0 +1,24 @@
+---
+title: 11th Annual ASA DataFest
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Developer*
+:::
+
+::: {style="float: right;"}
+May 2022
+:::
+:::
+
+-   Created data visualization models to illustrate correlations within drug resistance efficacy player datasets and conducted research on adolescent behavior and video game prevention programs.
+-   Proficient in Python for data visualization, cleaning, and analytics using Matplotlib, Seaborn, and Pandas.
+-   Experienced in collaborative team environments, including delegation, presentation, and project debriefing.
+-   Demonstrated strong public speaking and presentation skills through industry presentations on ML models.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="DataFest11.pdf">
+
+</iframe>
+:::

@@ -1,0 +1,17 @@
+---
+title: "Projects"
+listing: 
+  - id: blogs-listing
+    contents: 
+      - "/blogs/*.qmd"
+    sort: true
+    sort-ui: true
+    filter-ui: true
+    type: table
+    fields:
+      - title
+    categories: false
+---
+
+::: blogs-listing
+:::
