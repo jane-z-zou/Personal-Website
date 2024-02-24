@@ -2,8 +2,6 @@
 title: Sustainable Los Angeles Grand Challenge
 ---
 
-## 2024 Energy Report Card
-
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
 *Research Assistant*

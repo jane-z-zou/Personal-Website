@@ -14,7 +14,8 @@ March 2022 - May 2022
 
 -   Directed the development of a user-friendly recruiting platform designed for young adult job seekers.
 -   Conducted user research, devised wireframes, and executed competitive analysis.
--   Proficient in Figma for crafting wireframes, mockups, and prototypes. - Applied user-centric design principles, conducted market research, and translated business goals into practical design solutions.
+-   Proficient in Figma for crafting wireframes, mockups, and prototypes. 
+-   Applied user-centric design principles, conducted market research, and translated business goals into practical design solutions.
 -   Employed design thinking methodologies to foster innovation and problem-solving.
 
 ::: {#fig-RefCardR}
@@ -28,4 +29,3 @@ March 2022 - May 2022
 
 </iframe>
 :::
-

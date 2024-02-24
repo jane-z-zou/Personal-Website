@@ -32,7 +32,7 @@
     "href": "blogs.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\n\n\n\n\n11th Annual ASA DataFest\n\n\n\n\n12th Annual ASA DataFest\n\n\n\n\nChelle AI\n\n\n\n\nEpiData\n\n\n\n\nHYREUS\n\n\n\n\nHomeDescription\n\n\n\n\nHomeless Simulator\n\n\n\n\nOkTY\n\n\n\n\nParkLink\n\n\n\n\nPedestrian IoT Analysis\n\n\n\n\nSARE Ladies\n\n\n\n\nSavi\n\n\n\n\nSustainable Los Angeles Grand Challenge\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n11th Annual ASA DataFest\n\n\n\n\n\n\n\n\n\n\n12th Annual ASA DataFest\n\n\n\n\n\n\n\n\n\n\nChelle AI\n\n\n\n\n\n\n\n\n\n\nEpiData\n\n\n\n\n\n\n\n\n\n\nHYREUS\n\n\n\n\n\n\n\n\n\n\nHomeDescription\n\n\n\n\n\n\n\n\n\n\nHomeless Simulator\n\n\n\n\n\n\n\n\n\n\nOkTY\n\n\n\n\n\n\n\n\n\n\nParkLink\n\n\n\n\n\n\n\n\n\n\nPedestrian IoT Analysis\n\n\n\n\n\n\n\n\n\n\nSARE Ladies\n\n\n\n\n\n\n\n\n\n\nSavi\n\n\n\n\n\n\n\n\n\n\nStatistics Based on Adjusted Metered Water Supply Manual (2001)\n\n\n\n\n\n\n\n\n\n\nSustainable Los Angeles Grand Challenge\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "home.html",
@@ -53,18 +53,11 @@
     "href": "blogs/post_hyreus.html",
     "title": "HYREUS",
     "section": "",
-    "text": "Project Manager\n\n\nMarch 2022 - May 2022\n\n\n\nDirected the development of a user-friendly recruiting platform designed for young adult job seekers.\nConducted user research, devised wireframes, and executed competitive analysis.\nProficient in Figma for crafting wireframes, mockups, and prototypes. - Applied user-centric design principles, conducted market research, and translated business goals into practical design solutions.\nEmployed design thinking methodologies to foster innovation and problem-solving.\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\nFigure 2"
+    "text": "Project Manager\n\n\nMarch 2022 - May 2022\n\n\n\nDirected the development of a user-friendly recruiting platform designed for young adult job seekers.\nConducted user research, devised wireframes, and executed competitive analysis.\nProficient in Figma for crafting wireframes, mockups, and prototypes.\nApplied user-centric design principles, conducted market research, and translated business goals into practical design solutions.\nEmployed design thinking methodologies to foster innovation and problem-solving.\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\nFigure 2"
   },
   {
     "objectID": "blogs/post_slagc.html",
     "href": "blogs/post_slagc.html",
-    "title": "Sustainable Los Angeles Grand Challenge",
-    "section": "",
-    "text": "Research Assistant\n\n\nSeptember 2023 - Present\n\n\n\nContribute to innovative projects aimed at addressing environmental challenges in the Los Angeles area.\nStrong analytical skills and passion for making a positive impact on local communities through research and collaboration."
-  },
-  {
-    "objectID": "blogs/post_slagc.html#energy-report-card",
-    "href": "blogs/post_slagc.html#energy-report-card",
     "title": "Sustainable Los Angeles Grand Challenge",
     "section": "",
     "text": "Research Assistant\n\n\nSeptember 2023 - Present\n\n\n\nContribute to innovative projects aimed at addressing environmental challenges in the Los Angeles area.\nStrong analytical skills and passion for making a positive impact on local communities through research and collaboration."
@@ -96,6 +89,13 @@
     "title": "Savi",
     "section": "",
     "text": "Project Consultant\n\n\nOctober 2021 - December 2021\n\n\n\nDeveloped a heatmap visualization in Python to model correlations between variables of interest and user paid conversion rate, alongside creating histograms to assess the impact of marital status on binary payment status.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "blogs/post_stats140.html",
+    "href": "blogs/post_stats140.html",
+    "title": "Statistics Based on Adjusted Metered Water Supply Manual (2001)",
+    "section": "",
+    "text": "Researcher\n\n\nFebruary 2024\n\n\n\nProficient in statistical methodologies for identifying outliers in datasets relevant to determining surcharges and connection fees based on water quality parameters such as suspended solids (SS) and chemical oxygen demand (COD).\nExperienced in utilizing Dixon’s Outlier Test and Rosner’s Generalized Extreme Studentized Deviate Test for outlier identification, Shapiro-Wilk Normality Test to assess the normality of data.\nStrong understanding of the importance of robust outlier detection techniques in ensuring the accuracy and reliability of statistical analyses, particularly in water quality management contexts.\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\nFigure 2"
   },
   {
     "objectID": "blogs/post_11datafest.html",
@@ -172,7 +172,7 @@
     "href": "prof.html#professional-membership",
     "title": "Professional Profile",
     "section": "Professional Membership",
-    "text": "Professional Membership\n\n\nUndergraduate Research Scholars Program\n\n\n2023 - 2024\n\n\n\n\nUndergraduate Mathematics Council\n\n\n2022 - 2024\n\n\n\n\nCollege Scholars program\n\n\n2021 - 2024\n\n\n\n\nDataResolutions\n\n\n2021 - 2024\n\n\n\n\nNational Student Data Corp\n\n\n2023\n\n\n\n\nInnovate@UCLA\n\n\n2022 - 2023\n\n\n\n\nSociety of Women Engineers\n\n\n2021 - 2023"
+    "text": "Professional Membership\n\n\nUndergraduate Research Scholars Program\n\n\n2023 - 2024\n\n\n\n\nAT&T Technology Academy\n\n\n2023\n\n\n\n\nUndergraduate Mathematics Council\n\n\n2022 - 2024\n\n\n\n\nCollege Scholars program\n\n\n2021 - 2024\n\n\n\n\nDataResolutions\n\n\n2021 - 2024\n\n\n\n\nNational Student Data Corp\n\n\n2023\n\n\n\n\nInnovate@UCLA\n\n\n2022 - 2023\n\n\n\n\nSociety of Women Engineers\n\n\n2021 - 2023"
   },
   {
     "objectID": "prof.html#technical-skills",
