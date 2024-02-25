@@ -14,7 +14,8 @@ March 2023 - May 2023
 
 -   Led the development of a user-friendly platform for reserving affordable parking spots for the LA Olympics 2028, utilizing UX design expertise.
 -   Conducted user research, created wireframes, and performed competitive analysis.
--   Proficient in Figma for designing wireframes, mockups, and prototypes. - Applied user-centered design principles, conducted market research, and translated business objectives into actionable design solutions.
+-   Proficient in Figma for designing wireframes, mockups, and prototypes.
+-   Applied user-centered design principles, conducted market research, and translated business objectives into actionable design solutions.
 -   Applied design thinking methodologies to drive innovation and problem-solving.
 
 ::: {#fig-RefCardR}
