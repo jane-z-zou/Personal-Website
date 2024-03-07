@@ -8,9 +8,15 @@ title: Chelle AI
 :::
 
 ::: {style="float: right;"}
-January 2024 - Present
+January 2024 - March 2024
 :::
 :::
 
 -   Developed knowledge graphs by extracting and structuring data from NextJS using web scraping techniques in Python.
 -   Utilized NetworkX library to construct and analyze the graph representations, enabling the visualization and exploration of relationships among the extracted entities and their attributes.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="Chelle AI Consulting Winter 2024.pdf">
+
+</iframe>
+:::
