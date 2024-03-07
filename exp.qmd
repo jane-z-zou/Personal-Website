@@ -4,31 +4,62 @@ format: html
 ---
 
 ## Jules Stein Eye Institute
-<div style="overflow: hidden;">
-  <div style="float: left;">*Research Assistant*</div>
-  <div style="float: right;">May 2023 - Present</div>
-</div>
 
-- Automated visual field and display examination detection by imputing over three decades of missing patient data, enhancing diagnostic accuracy. 
-- Achieved a 30% improvement in model reliability through cross- functional collaboration and fine-tuning. 
-- Integrated advanced AI models into clinical workflows, optimizing healthcare operations. 
-- Enhanced healthcare datasets by merging NHANES and CDC data sheets, updating inclusion criteria, and conducting statistical analyses.
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*URSP Student, Volunteer Research Assistant*
+:::
+
+::: {style="float: right;"}
+May 2023 - Present
+:::
+:::
+
+-   Automated visual field and display examination detection by imputing over three decades of missing patient data, enhancing diagnostic accuracy.
+-   Achieved a 30% improvement in model reliability through cross-functional collaboration and fine-tuning.
+-   Integrated advanced AI models into clinical workflows, optimizing healthcare operations.
+-   Enhanced healthcare datasets by merging NHANES and CDC data sheets, updating inclusion criteria, and conducting statistical analyses.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="Research Manuscript - Jane Zou.pdf">
+
+</iframe>
+:::
 
 ## PricewaterhouseCoopers
-<div style="overflow: hidden;">
-  <div style="float: left;">*Data Science Intern*</div>
-  <div style="float: right;">June 2023 - Present</div>
-</div>
-- Utilized subject matter expertise to support a nonprofit focused on online career advancement
-- Leveraged comprehensive low code training in PowerBI to enhance data visualization and analysis capabilities
-- Conducted statistical analysis and demographic profiling in Python, providing valuable insights crucial for the implemen- tation of machine learning models.
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Data Science Intern*
+:::
+
+::: {style="float: right;"}
+June 2023 - Present
+:::
+:::
+
+-   Utilized subject matter expertise to support a nonprofit focused on online career advancement
+-   Leveraged comprehensive low code training in PowerBI to enhance data visualization and analysis capabilities
+-   Conducted statistical analysis and demographic profiling in Python, providing valuable insights crucial for the implementation of machine learning models.
 
 ## American Express
-<div style="overflow: hidden;">
-  <div style="float: left;">*Machine Learning Intern*</div>
-  <div style="float: right;">June 2022 - December 2022</div>
-</div>
 
-- Led a team of three in developing an end-to-end machine learning pipeline employing unsupervised learning techniques.
-- Calculated arrival probability from consumer campaign data to optimize marketing investment, identifying high ROI consumers.
-- Proficient in Python libraries including Pandas, NumPy, and Scikit-learn, utilized various machine learning techniques such as decision trees, neural networks, and ensemble methods like random forests for model development in Jupyter Notebook.
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Machine Learning Intern & AI Fellow*
+:::
+
+::: {style="float: right;"}
+June 2022 - December 2022
+:::
+:::
+
+-   Led a team of three in developing an end-to-end machine learning pipeline employing unsupervised learning techniques.
+-   Calculated arrival probability from consumer campaign data to optimize marketing investment, identifying high ROI consumers.
+-   Proficient in Python libraries including Pandas, NumPy, and Scikit-learn, utilized various machine learning techniques such as decision trees, neural networks, and ensemble methods like random forests for model development in Jupyter Notebook.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="AI Studio Final Project - AMEX Arrival Probability.pdf">
+
+</iframe>
+:::
