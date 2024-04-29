@@ -6,7 +6,7 @@ title: "Professional Profile"
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-13th Annual Statistical Association UCLA DataFest Finalist
+13th Annual Statistical Association UCLA DataFest Top Finalist
 :::
 
 ::: {style="float: right;"}
@@ -26,7 +26,7 @@ May 2023
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-Third Place Break Through Tech AI \@ UCLA, MIT, Cornell Tech AI Studio
+Third Place Break Through Tech AI Competition \@ UCLA, MIT, Cornell Tech AI Studio
 :::
 
 ::: {style="float: right;"}
@@ -198,8 +198,8 @@ October 2021 - May 2023
 
 ## Technical Skills
 
-**Programming Languages:** Python, R, Tableau, Power BI, Git, Microsoft Excel, HTML, CSS
+**Programming Languages:** Python, R, Tableau, Power BI, C++, Git, Microsoft Excel, HTML, CSS, SQL
 
 **Machine Learning:** Gradient Boosting, Clustering, Collaborative Filtering, Natural Language Processing (NLP), Artificial Intelligence Safety and Ethics, Time Series Analysis, and Feature Engineering
 
-**Business and Domain Knowledge:** Figma, NetSuite, Product Management, Agile and Scrum Methodologies, GIS, Canva
+**Business and Domain Knowledge:** Figma, NetSuite, Product Management, Agile and Scrum Methodologies, GIS, Canva, Jira, Slack, Google Analytics
