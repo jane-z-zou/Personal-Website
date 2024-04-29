@@ -7,16 +7,16 @@ format: html
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Project Manager, Developer*
+*Data Scientist*
 :::
 
 ::: {style="float: right;"}
-May 2022 - April 2024
+May 2022, May 2023, April 2024
 :::
 :::
 
 -   Created data visualization models to illustrate correlations within drug resistance efficacy player datasets and conducted research on adolescent behavior and video game prevention programs.
--   Proficient in Python for data visualization, cleaning, and analytics using Matplotlib, Seaborn, and Pandas.
+-   Proficient in Python, Tableau, and R for data visualization, cleaning, and analytics using Matplotlib, Seaborn, and Pandas.
 -   Experienced in collaborative team environments, including delegation, presentation, and project debriefing.
 -   Demonstrated strong public speaking and presentation skills through industry presentations on ML models.
 

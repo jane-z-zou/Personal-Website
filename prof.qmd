@@ -6,6 +6,16 @@ title: "Professional Profile"
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
+13th Annual Statistical Association UCLA DataFest Finalist
+:::
+
+::: {style="float: right;"}
+April 2024
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
 Visa & Society of Women Engineers Scholarship
 :::
 
@@ -102,17 +112,7 @@ Undergraduate Research Scholars Program
 :::
 
 ::: {style="float: right;"}
-2023 - 2024
-:::
-:::
-
-::: {style="overflow: hidden;"}
-::: {style="float: left;"}
-AT&T Technology Academy
-:::
-
-::: {style="float: right;"}
-2023
+October 2023 - June 2024
 :::
 :::
 
@@ -122,17 +122,17 @@ Undergraduate Mathematics Council
 :::
 
 ::: {style="float: right;"}
-2022 - 2024
+October 2022 - June 2024
 :::
 :::
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-College Scholars program
+American Statistical Association
 :::
 
 ::: {style="float: right;"}
-2021 - 2024
+May 2022 - April 2024
 :::
 :::
 
@@ -142,7 +142,17 @@ DataResolutions
 :::
 
 ::: {style="float: right;"}
-2021 - 2024
+October 2021 - April 2024
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+UCLA College Scholars Program
+:::
+
+::: {style="float: right;"}
+October 2021 - March 2024
 :::
 :::
 
@@ -152,7 +162,17 @@ National Student Data Corp
 :::
 
 ::: {style="float: right;"}
-2023
+June 2023 - August 2023
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+AT&T Technology Academy
+:::
+
+::: {style="float: right;"}
+June 2023 - July 2023
 :::
 :::
 
@@ -162,7 +182,7 @@ Innovate\@UCLA
 :::
 
 ::: {style="float: right;"}
-2022 - 2023
+March 2022 - May 2023
 :::
 :::
 
@@ -172,14 +192,14 @@ Society of Women Engineers
 :::
 
 ::: {style="float: right;"}
-2021 - 2023
+October 2021 - May 2023
 :::
 :::
 
 ## Technical Skills
 
-**Programming Languages:** Python, R, Tableau, Power BI, Git, Microsoft Excel, HTML, NetworkX
+**Programming Languages:** Python, R, Tableau, Power BI, Git, Microsoft Excel, HTML, CSS, NetworkX
 
 **Machine Learning:** Gradient Boosting, Clustering, Collaborative Filtering, Natural Language Processing (NLP), Artificial Intelligence Safety and Ethics, Time Series Analysis, and Feature Engineering
 
-**Business and Domain Knowledge:** Figma, NetSuite, Product Management, Agile and Scrum Methodologies
+**Business and Domain Knowledge:** Figma, NetSuite, Product Management, Agile and Scrum Methodologies, GIS, Canva

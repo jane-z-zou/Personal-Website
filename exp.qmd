@@ -7,11 +7,12 @@ format: html
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*URSP Student, Volunteer Research Assistant*
+*URSP Student, Research Assistant*
 :::
 
 ::: {style="float: right;"}
-May 2023 - Present
+May 2023 - June 2024
+
 :::
 :::
 
@@ -35,7 +36,7 @@ May 2023 - Present
 :::
 
 ::: {style="float: right;"}
-June 2023 - Present
+June 2023 - August 2024
 :::
 :::
 
@@ -51,7 +52,7 @@ June 2023 - Present
 :::
 
 ::: {style="float: right;"}
-June 2022 - December 2022
+June 2022 - April 2023
 :::
 :::
 
