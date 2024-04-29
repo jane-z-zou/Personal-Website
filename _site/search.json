@@ -32,7 +32,7 @@
     "href": "blogs.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n11th Annual ASA DataFest\n\n\n\n\n\n\n\n\n\n\n12th Annual ASA DataFest\n\n\n\n\n\n\n\n\n\n\nChelle AI\n\n\n\n\n\n\n\n\n\n\nEpiData\n\n\n\n\n\n\n\n\n\n\nHYREUS\n\n\n\n\n\n\n\n\n\n\nHomeDescription\n\n\n\n\n\n\n\n\n\n\nHomeless Simulator\n\n\n\n\n\n\n\n\n\n\nOkTY\n\n\n\n\n\n\n\n\n\n\nParkLink\n\n\n\n\n\n\n\n\n\n\nPedestrian IoT Analysis\n\n\n\n\n\n\n\n\n\n\nSARE Ladies\n\n\n\n\n\n\n\n\n\n\nSavi\n\n\n\n\n\n\n\n\n\n\nStatistics Based on Adjusted Metered Water Supply Manual (2001)\n\n\n\n\n\n\n\n\n\n\nSustainable Los Angeles Grand Challenge\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n11th Annual ASA DataFest\n\n\n\n\n\n\n\n\n\n\n12th Annual ASA DataFest\n\n\n\n\n\n\n\n\n\n\n13th Annual ASA DataFest\n\n\n\n\n\n\n\n\n\n\nChelle AI\n\n\n\n\n\n\n\n\n\n\nEpiData\n\n\n\n\n\n\n\n\n\n\nHYREUS\n\n\n\n\n\n\n\n\n\n\nHomeDescription\n\n\n\n\n\n\n\n\n\n\nHomeless Simulator\n\n\n\n\n\n\n\n\n\n\nOkTY\n\n\n\n\n\n\n\n\n\n\nParkLink\n\n\n\n\n\n\n\n\n\n\nPedestrian IoT Analysis\n\n\n\n\n\n\n\n\n\n\nSARE Ladies\n\n\n\n\n\n\n\n\n\n\nSavi\n\n\n\n\n\n\n\n\n\n\nStatistics Based on Adjusted Metered Water Supply Manual (2001)\n\n\n\n\n\n\n\n\n\n\nSustainable Los Angeles Grand Challenge\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "home.html",
@@ -151,7 +151,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "American Statistical Association DataFest\n\n\nProject Manager, Developer\n\n\nMay 2022\n\n\n\nCreated data visualization models to illustrate correlations within drug resistance efficacy player datasets and conducted research on adolescent behavior and video game prevention programs.\nProficient in Python for data visualization, cleaning, and analytics using Matplotlib, Seaborn, and Pandas.\nExperienced in collaborative team environments, including delegation, presentation, and project debriefing.\nDemonstrated strong public speaking and presentation skills through industry presentations on ML models.\n\n\n\nInnovate@UCLA\n\nHYREUS\n\n\nProject Manager\n\n\nMarch 2022 - May 2022\n\n\n\nDirected the development of a user-friendly recruiting platform designed for young adult job seekers.\nConducted user research, devised wireframes, and executed competitive analysis.\nProficient in Figma for crafting wireframes, mockups, and prototypes. - Applied user-centric design principles, conducted market research, and translated business goals into practical design solutions.\nEmployed design thinking methodologies to foster innovation and problem-solving."
+    "text": "American Statistical Association DataFest\n\n\nProject Manager, Developer\n\n\nMay 2022 - April 2024\n\n\n\nCreated data visualization models to illustrate correlations within drug resistance efficacy player datasets and conducted research on adolescent behavior and video game prevention programs.\nProficient in Python for data visualization, cleaning, and analytics using Matplotlib, Seaborn, and Pandas.\nExperienced in collaborative team environments, including delegation, presentation, and project debriefing.\nDemonstrated strong public speaking and presentation skills through industry presentations on ML models.\n\n\n\nInnovate@UCLA\n\nHYREUS\n\n\nProject Manager\n\n\nMarch 2022 - May 2022\n\n\n\nDirected the development of a user-friendly recruiting platform designed for young adult job seekers.\nConducted user research, devised wireframes, and executed competitive analysis.\nProficient in Figma for crafting wireframes, mockups, and prototypes. - Applied user-centric design principles, conducted market research, and translated business goals into practical design solutions.\nEmployed design thinking methodologies to foster innovation and problem-solving."
   },
   {
     "objectID": "prof.html",
@@ -180,5 +180,12 @@
     "title": "Professional Profile",
     "section": "Technical Skills",
     "text": "Technical Skills\nProgramming Languages: Python, R, Tableau, Power BI, Git, Microsoft Excel, HTML, NetworkX\nMachine Learning: Gradient Boosting, Clustering, Collaborative Filtering, Natural Language Processing (NLP), Artificial Intelligence Safety and Ethics, Time Series Analysis, and Feature Engineering\nBusiness and Domain Knowledge: Figma, NetSuite, Product Management, Agile and Scrum Methodologies"
+  },
+  {
+    "objectID": "blogs/post_13datafest.html",
+    "href": "blogs/post_13datafest.html",
+    "title": "13th Annual ASA DataFest",
+    "section": "",
+    "text": "Data Scientist, Developer\n\n\nApril 2024\n\n\n\nAchieved finalist status, ranking in the top 14 out of over 85 teams in a data-driven educational content optimization competition.\nSpearheaded a team project focused on enhancing student engagement and course completion rates through strategic modifications in question design and assessment criteria.\nUtilized advanced data analytics in R to identify optimal retry strategies and character minimum requirements, significantly improving question response quality and student learning outcomes.\nEmployed statistical modeling to analyze the impact of question difficulty and format on student - accuracy and engagement, deriving actionable insights for educational content enhancement.\n\n\n\n\n\n\n\n\nFigure 1"
   }
 ]

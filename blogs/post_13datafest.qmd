@@ -1,0 +1,24 @@
+---
+title: 13th Annual ASA DataFest
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Data Scientist, Developer*
+:::
+
+::: {style="float: right;"}
+April 2024
+:::
+:::
+
+-   Achieved finalist status, ranking in the top 14 out of over 85 teams in a data-driven educational content optimization competition.
+-   Spearheaded a team project focused on enhancing student engagement and course completion rates through strategic modifications in question design and assessment criteria.
+-   Utilized advanced data analytics in R to identify optimal retry strategies and character minimum requirements, significantly improving question response quality and student learning outcomes.
+-   Employed statistical modeling to analyze the impact of question difficulty and format on student -   accuracy and engagement, deriving actionable insights for educational content enhancement.
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="C11cumsum.pdf">
+
+</iframe>
+:::
