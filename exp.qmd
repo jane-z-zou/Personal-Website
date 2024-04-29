@@ -3,18 +3,34 @@ title: "Experience"
 format: html
 ---
 
+## PricewaterhouseCoopers
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Data Science Intern, Products & Technology*
+:::
+
+::: {style="float: right;"}
+June 2023 - August 2024
+:::
+:::
+
+-   Utilized subject matter expertise to support a nonprofit focused on online career advancement
+-   Leveraged comprehensive low code training in PowerBI to enhance data visualization and analysis capabilities
+-   Conducted statistical analysis and demographic profiling in Python, providing valuable insights crucial for the implementation of machine learning models.
+
+
 ## Jules Stein Eye Institute
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*URSP Student, Research Assistant*
+*Research Assistant Data Scientist*
 :::
 
 ::: {style="float: right;"}
 May 2023 - June 2024
 :::
 :::
-
 -   Automated visual field and display examination detection by imputing over three decades of missing patient data, enhancing diagnostic accuracy.
 -   Achieved a 30% improvement in model reliability through cross-functional collaboration and fine-tuning.
 -   Integrated advanced AI models into clinical workflows, optimizing healthcare operations.
@@ -27,27 +43,11 @@ May 2023 - June 2024
 </iframe>
 :::
 
-## PricewaterhouseCoopers
-
-::: {style="overflow: hidden;"}
-::: {style="float: left;"}
-*Data Science Intern*
-:::
-
-::: {style="float: right;"}
-June 2023 - August 2024
-:::
-:::
-
--   Utilized subject matter expertise to support a nonprofit focused on online career advancement
--   Leveraged comprehensive low code training in PowerBI to enhance data visualization and analysis capabilities
--   Conducted statistical analysis and demographic profiling in Python, providing valuable insights crucial for the implementation of machine learning models.
-
 ## American Express
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Machine Learning Intern & AI Fellow*
+*AI Fellow, Machine Learning Intern*
 :::
 
 ::: {style="float: right;"}
