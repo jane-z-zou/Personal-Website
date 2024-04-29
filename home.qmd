@@ -26,4 +26,4 @@ As a UCLA capstone major in Statistics and Data Science, I bring a robust analyt
 
 My experience extends to managing high-stakes projects with American Express and the American Statistical Assocation, and competing in a Google-sponsored Kaggle competition, where I honed my skills in predictive analytics and team leadership. I also leverage advanced machine learning techniques to deliver actionable insights for our DataResolution clients, enhancing their strategic outcomes for their businesses.
 
-Outside of professional settings, I enjoy reading, walking with my mom, and crocheting. Attached is my current [CV](/DOCS/CV.pdf "CV") and [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume").
+Outside of professional settings, I enjoy reading, walking with my mom, and crocheting. Attached is my current [CV](/DOCS/CV.pdf "CV") and [Resumé](/DOCS/Zou,Jane Resume.pdf "Zou,Jane Resume").
