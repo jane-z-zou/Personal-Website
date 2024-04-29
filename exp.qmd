@@ -12,7 +12,6 @@ format: html
 
 ::: {style="float: right;"}
 May 2023 - June 2024
-
 :::
 :::
 

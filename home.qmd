@@ -12,6 +12,8 @@ about:
   - icon: email
     text: Email
     url: mailto:janezou2013@gmail.com
+  - text: ORCID 
+    url: https://orcid.org/0009-0001-3887-6097
 
 image: pfp.png
 ---
@@ -20,8 +22,9 @@ image: pfp.png
 
 ## About Me
 
-As a student at UCLA pursuing a capstone major in Statistics and Data Science, I possess a strong foundation in statistical analysis and data interpretation. I am a Data Scientist at PwC, where I applying my data analytics and business skills to real-world consulting projects. Attached is my current [CV](/DOCS/CV.pdf "CV") and [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume").
+As a UCLA capstone major in Statistics and Data Science, I bring a robust analytical foundation to my role as a Data Scientist at PwC. My work at Jules Stein Eye Institute involves applying data science methodologies to ophthalmological research, further enriching my expertise in healthcare analytics.
 
-Through machine learning techniques, I provide insightful recommendations to our DataResolution clients. Additionally, I have project management experience through my work with American Express and a Google-sponsored Kaggle competition.
+My experience extends to managing high-stakes projects with American Express, CourseKata, American Bar Association, and Play2Prevent Lab from the Yale School of Medicine and competing in a Google-sponsored Kaggle competition, where I honed my skills in predictive analytics and team leadership. I also leverage advanced machine learning techniques to deliver actionable insights for our DataResolution clients, enhancing their strategic outcomes for their businesses.
 
-Outside of the office, I enjoy reading, walking with my mom, and crocheting.
+Outside of professional settings, I enjoy reading, walking with my mom, and crocheting. Attached is my current [CV](/DOCS/CV.pdf "CV") and [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume").
+

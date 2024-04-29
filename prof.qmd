@@ -198,7 +198,7 @@ October 2021 - May 2023
 
 ## Technical Skills
 
-**Programming Languages:** Python, R, Tableau, Power BI, Git, Microsoft Excel, HTML, CSS, NetworkX
+**Programming Languages:** Python, R, Tableau, Power BI, Git, Microsoft Excel, HTML, CSS
 
 **Machine Learning:** Gradient Boosting, Clustering, Collaborative Filtering, Natural Language Processing (NLP), Artificial Intelligence Safety and Ethics, Time Series Analysis, and Feature Engineering
 
