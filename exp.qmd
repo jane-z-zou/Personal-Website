@@ -19,7 +19,6 @@ June 2023 - August 2024
 -   Leveraged comprehensive low code training in PowerBI to enhance data visualization and analysis capabilities
 -   Conducted statistical analysis and demographic profiling in Python, providing valuable insights crucial for the implementation of machine learning models.
 
-
 ## Jules Stein Eye Institute
 
 ::: {style="overflow: hidden;"}
@@ -31,11 +30,16 @@ June 2023 - August 2024
 May 2023 - June 2024
 :::
 :::
+
 -   Automated visual field and display examination detection by imputing over three decades of missing patient data, enhancing diagnostic accuracy.
 -   Achieved a 30% improvement in model reliability through cross-functional collaboration and fine-tuning.
 -   Integrated advanced AI models into clinical workflows, optimizing healthcare operations.
 -   Enhanced healthcare datasets by merging NHANES and CDC data sheets, updating inclusion criteria, and conducting statistical analyses.
 -   Contributed to four publications in the American Glaucoma Society (AGS) journal, leveraging insights from extensive datasets and advanced AI analytics to advance the field of glaucoma research and treatment methodologies.
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QSe5alK901A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
 
 ::: {#fig-RefCardR}
 <iframe width="100%" height="600" src="Research Manuscript - Jane Zou.pdf">
