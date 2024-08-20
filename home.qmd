@@ -15,15 +15,13 @@ about:
   - text: ORCID 
     url: https://orcid.org/0009-0001-3887-6097
 
-image: pfp.png
+image: pfp.jpg
 ---
 
 # Home
 
 ## About Me
 
-As a UCLA capstone major in Statistics and Data Science, I bring a robust analytical foundation to my role as a Data Scientist at PwC. My work at Jules Stein Eye Institute involves applying data science methodologies to ophthalmological research, further enriching my expertise in healthcare analytics.
+I'm Jane, a data scientist at PwC specializing in machine learning and generative AI for specialized tax sercices. I also have experience in ophthalmological data science research. I graduated from UCLA with a B.S. in Statistics and Data Science.
 
-My experience extends to managing high-stakes projects with American Express and the American Statistical Assocation, and competing in a Google-sponsored Kaggle competition, where I honed my skills in predictive analytics and team leadership. I also leverage advanced machine learning techniques to deliver actionable insights for our DataResolution clients, enhancing their strategic outcomes for their businesses.
-
-Outside of professional settings, I enjoy reading, walking with my mom, and crocheting. Attached is my current [CV](/DOCS/CV.pdf "CV") and [Resumé](/DOCS/Zou,Jane Resume.pdf "Zou,Jane Resume").
+My goal is to apply my robust background in data science towards uncovering impactful patterns and insights, leveraging advanced technical skills to address complex challenges and drive measurable outcomes as a data scientist. Outside of professional settings, I enjoy reading, walking with my mom, and crocheting. Discover more about me in my current [CV](/DOCS/CV.pdf "CV") and [Resumé](/DOCS/Zou,Jane Resume.pdf "Zou,Jane Resume").
