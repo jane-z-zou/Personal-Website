@@ -16,12 +16,18 @@ about:
     url: https://orcid.org/0009-0001-3887-6097
 
 image: pfp.jpg
+
 ---
 
-# Home
+# Jane Zou
 
-## About Me
+### Data Scientist Specializing in Machine Learning and Generative AI
 
-I'm Jane, a data scientist at PwC specializing in machine learning and generative AI for specialized tax sercices. I also have experience in ophthalmological data science research. I graduated from UCLA with a B.S. in Statistics and Data Science.
+I leverage machine learning and generative AI to drive impactful outcomes in specialized tax services. With a B.S. in Statistics and Data Science from UCLA, my strong data science foundation equips me with the technical skills needed to address complex challenges and uncover actionable insights. My objective is to apply my extensive knowledge to reveal valuable patterns and insights that support strategic decision-making and foster innovation. I am committed to solving intricate problems and delivering solutions that make a significant impact on organizational success.
 
-My goal is to apply my robust background in data science towards uncovering impactful patterns and insights, leveraging advanced technical skills to address complex challenges and drive measurable outcomes as a data scientist. Outside of professional settings, I enjoy reading, walking with my mom, and crocheting. Discover more about me in my current [CV](/DOCS/CV.pdf "CV") and [Resumé](/DOCS/Zou,Jane Resume.pdf "Zou,Jane Resume").
+### Key Expertise:
+- Machine Learning & Generative AI: Skilled in utilizing machine learning algorithms and generative AI techniques to address complex issues and achieve measurable results.
+- Ophthalmological Data Science: Proven experience in applying data science methodologies to ophthalmological research, improving understanding and treatment strategies.
+- Advanced Technical Skills: Proficient in Python, R, SQL, and various data science tools and platforms, including TensorFlow and PyTorch.
+
+Explore my current CV and [Resumé](/DOCS/Zou,Jane Resume.pdf "Zou,Jane Resume") to learn more about my qualifications, experience, and how I can contribute to your organization.

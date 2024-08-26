@@ -7,7 +7,7 @@ format: html
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Data Science Intern, Products & Technology*
+*Data Scientist*
 :::
 
 ::: {style="float: right;"}
@@ -15,15 +15,17 @@ June 2023 - August 2024
 :::
 :::
 
--   Utilized subject matter expertise to support a nonprofit focused on online career advancement
--   Leveraged comprehensive low code training in PowerBI to enhance data visualization and analysis capabilities
--   Conducted statistical analysis and demographic profiling in Python, providing valuable insights crucial for the implementation of machine learning models.
+-   Automated global tax incentives matching with generative AI, reducing processing time by 99% & increasing accuracy by 85%.
+-   Created a frontend with Streamlit and a backend with FAST API, incorporating Azure Form Recognizer for document parsing, achieving over 99% accuracy and optimizing system efficiency.
+-   Enhanced predictive ML model accuracy through advanced demographic profiling & natural language processing techniques.
+-   Increased user engagement & digital service quality for a career exploration nonprofit by implementing effective online career tools.
+-   Advanced data visualization & decision-making capabilities by mastering Power BI through 80 hours of intensive training.
 
 ## Jules Stein Eye Institute
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Research Assistant Data Scientist*
+*Data Scientist*
 :::
 
 ::: {style="float: right;"}
@@ -31,16 +33,14 @@ May 2023 - June 2024
 :::
 :::
 
--   Automated visual field and display examination detection by imputing over three decades of missing patient data, enhancing diagnostic accuracy.
--   Achieved a 30% improvement in model reliability through cross-functional collaboration and fine-tuning.
--   Integrated advanced AI models into clinical workflows, optimizing healthcare operations.
--   Enhanced healthcare datasets by merging NHANES and CDC data sheets, updating inclusion criteria, and conducting statistical analyses.
--   Contributed to four publications in the American Glaucoma Society (AGS) journal, leveraging insights from extensive datasets and advanced AI analytics to advance the field of glaucoma research and treatment methodologies.
+-   Authored four papers in the American Glaucoma Society & Ophthalmology Journals, applying complex AI analytics to vast datasets to propel advancements in glaucoma research & treatment strategies.
+-   Automated visual field detection systems by imputing data from over 30 years of patient records, increasing diagnostic precision.
+-   Improved model reliability by 30% through rigorous parameter optimization & iterative testing, enhancing decision-making accuracy.
+-   Enriched healthcare datasets by combining NHANES & CDC data, refining inclusion criteria, & performing rigorous statistical analyses to support more accurate health assessments.
 
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QSe5alK901A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
-
 ::: {#fig-RefCardR}
 <iframe width="100%" height="600" src="Research Manuscript - Jane Zou.pdf">
 
@@ -51,7 +51,7 @@ May 2023 - June 2024
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*AI Fellow, Machine Learning Intern*
+*Lead Machine Learning Engineer*
 :::
 
 ::: {style="float: right;"}
@@ -59,9 +59,9 @@ June 2022 - April 2023
 :::
 :::
 
--   Led a team of three in developing an end-to-end machine learning pipeline employing unsupervised learning techniques.
--   Calculated arrival probability from consumer campaign data to optimize marketing investment, identifying high ROI consumers.
--   Proficient in Python libraries including Pandas, NumPy, and Scikit-learn, utilized various machine learning techniques such as decision trees, neural networks, and ensemble methods like random forests for model development in Jupyter Notebook.
+-   Analyzed consumer campaign data to calculate arrival probabilities, optimizing resource allocation by identifying high ROI consumers.
+-   Oversaw a team of three in building a supervised learning ML pipeline, enhancing data insights for over 10.4 million financial records.
+-   Skilled in using Pandas, NumPy, & Scikit-learn for developing & debugging high-accuracy models with decision trees, neural networks, & random forests in Jupyter Notebook.
 
 ::: {#fig-RefCardR}
 <iframe width="100%" height="600" src="AI Studio Final Project - AMEX Arrival Probability.pdf">

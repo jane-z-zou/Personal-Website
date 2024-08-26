@@ -4,28 +4,28 @@
     "href": "exp.html",
     "title": "Experience",
     "section": "",
-    "text": "Data Science Intern, Products & Technology\n\n\nJune 2023 - August 2024\n\n\n\nUtilized subject matter expertise to support a nonprofit focused on online career advancement\nLeveraged comprehensive low code training in PowerBI to enhance data visualization and analysis capabilities\nConducted statistical analysis and demographic profiling in Python, providing valuable insights crucial for the implementation of machine learning models."
+    "text": "Data Scientist\n\n\nJune 2023 - August 2024\n\n\n\nAutomated global tax incentives matching with generative AI, reducing processing time by 99% & increasing accuracy by 85%.\nCreated a frontend with Streamlit and a backend with FAST API, incorporating Azure Form Recognizer for document parsing, achieving over 99% accuracy and optimizing system efficiency.\nEnhanced predictive ML model accuracy through advanced demographic profiling & natural language processing techniques.\nIncreased user engagement & digital service quality for a career exploration nonprofit by implementing effective online career tools.\nAdvanced data visualization & decision-making capabilities by mastering Power BI through 80 hours of intensive training."
   },
   {
     "objectID": "exp.html#jules-stein-eye-institute",
     "href": "exp.html#jules-stein-eye-institute",
     "title": "Experience",
     "section": "Jules Stein Eye Institute",
-    "text": "Jules Stein Eye Institute\n\n\nResearch Assistant Data Scientist\n\n\nMay 2023 - June 2024\n\n\n\nAutomated visual field and display examination detection by imputing over three decades of missing patient data, enhancing diagnostic accuracy.\nAchieved a 30% improvement in model reliability through cross-functional collaboration and fine-tuning.\nIntegrated advanced AI models into clinical workflows, optimizing healthcare operations.\nEnhanced healthcare datasets by merging NHANES and CDC data sheets, updating inclusion criteria, and conducting statistical analyses.\nContributed to four publications in the American Glaucoma Society (AGS) journal, leveraging insights from extensive datasets and advanced AI analytics to advance the field of glaucoma research and treatment methodologies.\n\n\n\n\n\n\n\n\n\nFigure 1"
+    "text": "Jules Stein Eye Institute\n\n\nData Scientist\n\n\nMay 2023 - June 2024\n\n\n\nAuthored four papers in the American Glaucoma Society & Ophthalmology Journals, applying complex AI analytics to vast datasets to propel advancements in glaucoma research & treatment strategies.\nAutomated visual field detection systems by imputing data from over 30 years of patient records, increasing diagnostic precision.\nImproved model reliability by 30% through rigorous parameter optimization & iterative testing, enhancing decision-making accuracy.\nEnriched healthcare datasets by combining NHANES & CDC data, refining inclusion criteria, & performing rigorous statistical analyses to support more accurate health assessments.\n\n\n\n\n\n\n\n\n\nFigure 1"
   },
   {
     "objectID": "exp.html#pricewaterhousecoopers",
     "href": "exp.html#pricewaterhousecoopers",
     "title": "Experience",
     "section": "",
-    "text": "Data Science Intern, Products & Technology\n\n\nJune 2023 - August 2024\n\n\n\nUtilized subject matter expertise to support a nonprofit focused on online career advancement\nLeveraged comprehensive low code training in PowerBI to enhance data visualization and analysis capabilities\nConducted statistical analysis and demographic profiling in Python, providing valuable insights crucial for the implementation of machine learning models."
+    "text": "Data Scientist\n\n\nJune 2023 - August 2024\n\n\n\nAutomated global tax incentives matching with generative AI, reducing processing time by 99% & increasing accuracy by 85%.\nCreated a frontend with Streamlit and a backend with FAST API, incorporating Azure Form Recognizer for document parsing, achieving over 99% accuracy and optimizing system efficiency.\nEnhanced predictive ML model accuracy through advanced demographic profiling & natural language processing techniques.\nIncreased user engagement & digital service quality for a career exploration nonprofit by implementing effective online career tools.\nAdvanced data visualization & decision-making capabilities by mastering Power BI through 80 hours of intensive training."
   },
   {
     "objectID": "exp.html#american-express",
     "href": "exp.html#american-express",
     "title": "Experience",
     "section": "American Express",
-    "text": "American Express\n\n\nAI Fellow, Machine Learning Intern\n\n\nJune 2022 - April 2023\n\n\n\nLed a team of three in developing an end-to-end machine learning pipeline employing unsupervised learning techniques.\nCalculated arrival probability from consumer campaign data to optimize marketing investment, identifying high ROI consumers.\nProficient in Python libraries including Pandas, NumPy, and Scikit-learn, utilized various machine learning techniques such as decision trees, neural networks, and ensemble methods like random forests for model development in Jupyter Notebook.\n\n\n\n\n\n\n\n\nFigure 2"
+    "text": "American Express\n\n\nLead Machine Learning Engineer\n\n\nJune 2022 - April 2023\n\n\n\nAnalyzed consumer campaign data to calculate arrival probabilities, optimizing resource allocation by identifying high ROI consumers.\nOversaw a team of three in building a supervised learning ML pipeline, enhancing data insights for over 10.4 million financial records.\nSkilled in using Pandas, NumPy, & Scikit-learn for developing & debugging high-accuracy models with decision trees, neural networks, & random forests in Jupyter Notebook.\n\n\n\n\n\n\n\n\nFigure 2"
   },
   {
     "objectID": "blogs.html",
@@ -37,9 +37,9 @@
   {
     "objectID": "home.html",
     "href": "home.html",
-    "title": "Home",
+    "title": "Jane Zou",
     "section": "",
-    "text": "I’m Jane, a data scientist at PwC specializing in machine learning and generative AI for specialized tax sercices. I also have experience in ophthalmological data science research. I graduated from UCLA with a B.S. in Statistics and Data Science.\nMy goal is to apply my robust background in data science towards uncovering impactful patterns and insights, leveraging advanced technical skills to address complex challenges and drive measurable outcomes as a data scientist. Outside of professional settings, I enjoy reading, walking with my mom, and crocheting. Discover more about me in my current CV and Resumé."
+    "text": "Jane Zou\n\nData Scientist Specializing in Machine Learning and Generative AI\nI leverage machine learning and generative AI to drive impactful outcomes in specialized tax services. With a B.S. in Statistics and Data Science from UCLA, my strong data science foundation equips me with the technical skills needed to address complex challenges and uncover actionable insights. My objective is to apply my extensive knowledge to reveal valuable patterns and insights that support strategic decision-making and foster innovation. I am committed to solving intricate problems and delivering solutions that make a significant impact on organizational success.\n\n\nKey Expertise:\n\nMachine Learning & Generative AI: Skilled in utilizing machine learning algorithms and generative AI techniques to address complex issues and achieve measurable results.\nOphthalmological Data Science: Proven experience in applying data science methodologies to ophthalmological research, improving understanding and treatment strategies.\nAdvanced Technical Skills: Proficient in Python, R, SQL, and various data science tools and platforms, including TensorFlow and PyTorch.\n\nExplore my current CV and Resumé to learn more about my qualifications, experience, and how I can contribute to your organization."
   },
   {
     "objectID": "home.html#about-me",
@@ -187,5 +187,19 @@
     "title": "13th Annual ASA DataFest",
     "section": "",
     "text": "Data Scientist, Lead Developer\n\n\nApril 2024\n\n\n\nAchieved finalist status, ranking in the top 14 out of over 85 teams in a data-driven educational content optimization competition.\nSpearheaded a team project focused on enhancing student engagement and course completion rates through strategic modifications in question design and assessment criteria.\nUtilized advanced data analytics in R to identify optimal retry strategies and character minimum requirements, significantly improving question response quality and student learning outcomes.\nEmployed statistical modeling to analyze the impact of question difficulty and format on student - accuracy and engagement, deriving actionable insights for educational content enhancement.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "home.html#jane-zou---data-scientist-specializing-in-machine-learning-and-generative-ai",
+    "href": "home.html#jane-zou---data-scientist-specializing-in-machine-learning-and-generative-ai",
+    "title": "Home",
+    "section": "",
+    "text": "As a Data Scientist at PwC, I specialize in harnessing the power of machine learning and generative AI to drive impactful outcomes in specialized tax services. My robust background in data science, bolstered by a B.S. in Statistics and Data Science from UCLA, equips me with advanced technical skills to address complex challenges and uncover actionable insights.\n\n\n\nMachine Learning & Generative AI: Expertise in leveraging machine learning algorithms and generative AI techniques to solve intricate problems and deliver measurable results.\nOphthalmological Data Science: Extensive experience in applying data science methodologies to ophthalmological research, enhancing understanding and treatment approaches.\nAdvanced Technical Skills: Proficient in Python, R, SQL, and various data science tools and platforms, including TensorFlow and PyTorch.\n\n\n\n\nMy objective is to apply my extensive data science knowledge to uncover impactful patterns and insights that drive strategic decision-making and innovation. I am passionate about tackling complex challenges and delivering solutions that have a measurable impact on organizational success.\n\n\n\nOutside of my professional pursuits, I enjoy reading, walking with my mom, and crocheting, which provide me with relaxation and creativity.\n\n\n\nExplore my current CV and Resumé to learn more about my qualifications, experience, and how I can contribute to your organization."
+  },
+  {
+    "objectID": "home.html#jane-zou",
+    "href": "home.html#jane-zou",
+    "title": "",
+    "section": "",
+    "text": "I leverage machine learning and generative AI to drive impactful outcomes in specialized tax services. With a B.S. in Statistics and Data Science from UCLA, my strong data science foundation equips me with the technical skills needed to address complex challenges and uncover actionable insights. My objective is to apply my extensive knowledge to reveal valuable patterns and insights that support strategic decision-making and foster innovation. I am committed to solving intricate problems and delivering solutions that make a significant impact on organizational success.\n\n\n\n\nMachine Learning & Generative AI: Skilled in utilizing machine learning algorithms and generative AI techniques to address complex issues and achieve measurable results.\nOphthalmological Data Science: Proven experience in applying data science methodologies to ophthalmological research, improving understanding and treatment strategies.\nAdvanced Technical Skills: Proficient in Python, R, SQL, and various data science tools and platforms, including TensorFlow and PyTorch.\n\nExplore my current CV and Resumé to learn more about my qualifications, experience, and how I can contribute to your organization."
   }
 ]
