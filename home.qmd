@@ -30,4 +30,4 @@ I leverage machine learning and generative AI to drive impactful outcomes in spe
 -   Ophthalmological Data Science: Proven experience in applying data science methodologies to ophthalmological research, improving understanding and treatment strategies.
 -   Advanced Technical Skills: Proficient in Python, R, SQL, and various data science tools and platforms, including TensorFlow and PyTorch.
 
-Explore my current [CV](/DOCS/CV.pdf "CV.pdf") and [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume") to learn more about my qualifications, experience, and how I can contribute to your organization.
+Explore my current [CV](/DOCS/CV.pdf "CV.pdf") and [Resumé](/DOCS/Zou,Jane Resume.pdf "Zou,Jane Resume.pdf") to learn more about my qualifications, experience, and how I can contribute to your organization.
