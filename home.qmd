@@ -15,19 +15,13 @@ about:
   - text: ORCID 
     url: https://orcid.org/0009-0001-3887-6097
 
-image: pfp.jpg
+image: chat_pfp.png
 ---
 
 # Jane Zou
 
-### Data Scientist Specializing in Machine Learning and Generative AI
+### Project Manager Specializing in Data Science and Generative AI
 
-I leverage machine learning and generative AI to drive impactful outcomes in specialized tax services. With a B.S. in Statistics and Data Science from UCLA, my strong data science foundation equips me with the technical skills needed to address complex challenges and uncover actionable insights. My objective is to apply my extensive knowledge to reveal valuable patterns and insights that support strategic decision-making and foster innovation. I am committed to solving intricate problems and delivering solutions that make a significant impact on organizational success.
+Hi, I’m Jane. I apply my background in statistics, data science, and project management to design and deliver generative AI solutions for tax use cases. As a Project Manager at PwC, I lead cross-functional initiatives that translate complex regulatory and financial data into automated, insight-driven workflows, driving accuracy, efficiency, and strategic value for clients.
 
-### Key Expertise:
-
--   Machine Learning & Generative AI: Skilled in utilizing machine learning algorithms and generative AI techniques to address complex issues and achieve measurable results.
--   Ophthalmological Data Science: Proven experience in applying data science methodologies to ophthalmological research, improving understanding and treatment strategies.
--   Advanced Technical Skills: Proficient in Python, R, SQL, and various data science tools and platforms, including TensorFlow and PyTorch.
-
-Explore my current [CV](/DOCS/CV.pdf "CV.pdf") and [Resumé](/DOCS/Zou,Jane Resume.pdf "Zou,Jane Resume.pdf") to learn more about my qualifications, experience, and how I can contribute to your organization.
+Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") to learn more about my qualifications and experience.
