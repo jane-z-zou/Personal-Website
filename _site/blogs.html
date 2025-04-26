@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
@@ -131,7 +131,7 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -170,9 +170,7 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -195,9 +193,6 @@ window.Quarto = {
 </header>
 
 
-<div class="blogs-listing">
-
-</div>
 
 
 
@@ -220,167 +215,257 @@ window.Quarto = {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1714355581316" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
-<a href="./blogs/post_11datafest.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-11th Annual ASA DataFest
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1708742831723" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
-<a href="./blogs/post_12datafest.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-12th Annual ASA DataFest
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1714357131880" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
-<a href="./blogs/post_13datafest.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-13th Annual ASA DataFest
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1710642612251" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
-<a href="./blogs/post_chelle.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Chelle AI
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1708670790098" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
-<a href="./blogs/post_epidata.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-EpiData
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1708742263237" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
-<a href="./blogs/post_hyreus.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-HYREUS
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1708670992989" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
-<a href="./blogs/post_homedescription.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-HomeDescription
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1708668551392" data-listing-reading-time-sort="1" data-listing-word-count-sort="115">
-<a href="./blogs/post_homeless.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Homeless Simulator
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1708670600550" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
-<a href="./blogs/post_okty.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-OkTY
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1708893993705" data-listing-reading-time-sort="1" data-listing-word-count-sort="93">
-<a href="./blogs/post_parklink.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-ParkLink
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1708671332412" data-listing-reading-time-sort="1" data-listing-word-count-sort="102">
-<a href="./blogs/post_ped.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Pedestrian IoT Analysis
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1708670688133" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
-<a href="./blogs/post_sare.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-SARE Ladies
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1708671052708" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1745645267190" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
 <a href="./blogs/post_savi.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/savi.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Savi
+2021/12 - Savi
 </h5>
+<div class="card-text listing-description">
+<em>Strategy Consultant</em>
+</div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1708743311045" data-listing-reading-time-sort="1" data-listing-word-count-sort="113">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1745643706555" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
+<a href="./blogs/post_11datafest.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/ds11.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2022/05 - 11th Annual ASA DataFest
+</h5>
+<div class="card-text listing-description">
+<em>Developer</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1745644594531" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
+<a href="./blogs/post_hyreus.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/hsim.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2022/05 - HYREUS
+</h5>
+<div class="card-text listing-description">
+<em>Project Manager</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1745644453815" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
+<a href="./blogs/post_homedescription.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/hd.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2022/06 - HomeDescription
+</h5>
+<div class="card-text listing-description">
+<em>Strategy Consultant</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1745643443839" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
+<a href="./blogs/post_homeless.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/hs.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2023/01 - Homeless Simulator
+</h5>
+<div class="card-text listing-description">
+<em>Project Manager</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1745644184901" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
+<a href="./blogs/post_epidata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/ed.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2023/03 - EpiData
+</h5>
+<div class="card-text listing-description">
+<em>Senior Strategy Consultant</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1745643885798" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
+<a href="./blogs/post_12datafest.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/ds12.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2023/05 - 12th Annual ASA DataFest
+</h5>
+<div class="card-text listing-description">
+<em>Lead Developer</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1745644918797" data-listing-reading-time-sort="1" data-listing-word-count-sort="93">
+<a href="./blogs/post_parklink.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/parklink.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2023/05 - ParkLink
+</h5>
+<div class="card-text listing-description">
+<em>Project Manager</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1745645225258" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+<a href="./blogs/post_sare.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/sare.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2023/06 - SARE Ladies
+</h5>
+<div class="card-text listing-description">
+<em>Strategy Consultant</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1745645187459" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
+<a href="./blogs/post_ped.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/peds.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2023/09 - Pedestrian IoT Analysis
+</h5>
+<div class="card-text listing-description">
+<em>Senior Data Specialist</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1745645093980" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+<a href="./blogs/post_okty.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/okty.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2023/12 - OkTY
+</h5>
+<div class="card-text listing-description">
+<em>Senior Strategy Consultant</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1745644794760" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
 <a href="./blogs/post_stats140.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/stats.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Statistics Based on Adjusted Metered Water Supply Manual (2001)
+2024/02 - Statistics Based on Adjusted Metered Water Supply Manual (2001)
 </h5>
+<div class="card-text listing-description">
+<em>Principal Investigator</em>
+</div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1710642644617" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
-<a href="./blogs/post_slagc.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1745644029534" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+<a href="./blogs/post_chelle.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/chelle.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Sustainable Los Angeles Grand Challenge
+2024/03 - Chelle AI
 </h5>
+<div class="card-text listing-description">
+<em>Senior Strategy Consultant</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1745643341948" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
+<a href="./blogs/post_13datafest.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/ds13.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2024/04 - 13th Annual ASA DataFest
+</h5>
+<div class="card-text listing-description">
+<em>Lead Developer</em>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1745643510368" data-listing-reading-time-sort="1" data-listing-word-count-sort="67">
+<a href="./blogs/post_slagc.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/slagc.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2024/06 - Sustainable Los Angeles Grand Challenge
+</h5>
+<div class="card-text listing-description">
+<em>Principal Investigator</em>
+</div>
 </div>
 </div>
 </a>

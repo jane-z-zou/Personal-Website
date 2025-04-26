@@ -1,10 +1,11 @@
 ---
-title: Savi
+title: 2021/12 - Savi
+image: savi.png
 ---
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Project Consultant*
+*Strategy Consultant*
 :::
 
 ::: {style="float: right;"}

@@ -2,20 +2,20 @@
   {
     "listing": "/blogs.html",
     "items": [
+      "/blogs/post_savi.html",
       "/blogs/post_11datafest.html",
-      "/blogs/post_12datafest.html",
-      "/blogs/post_13datafest.html",
-      "/blogs/post_chelle.html",
-      "/blogs/post_epidata.html",
       "/blogs/post_hyreus.html",
       "/blogs/post_homedescription.html",
       "/blogs/post_homeless.html",
-      "/blogs/post_okty.html",
+      "/blogs/post_epidata.html",
+      "/blogs/post_12datafest.html",
       "/blogs/post_parklink.html",
-      "/blogs/post_ped.html",
       "/blogs/post_sare.html",
-      "/blogs/post_savi.html",
+      "/blogs/post_ped.html",
+      "/blogs/post_okty.html",
       "/blogs/post_stats140.html",
+      "/blogs/post_chelle.html",
+      "/blogs/post_13datafest.html",
       "/blogs/post_slagc.html"
     ]
   }

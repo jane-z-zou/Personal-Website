@@ -1,5 +1,6 @@
 ---
-title: Homeless Simulator
+title: 2023/01 - Homeless Simulator
+image: hs.png
 ---
 
 ::: {style="overflow: hidden;"}
@@ -18,3 +19,8 @@ January 2023
 -   Secured first place in the housing insecurity track, earning the Major League Hacking fellowship interview fast-track certificate.
 -   Experienced in producing and designing video game scripts.
 -   Skilled in written and verbal communication, including interviewing leading experts in public policy and public health researchers.
+-   [View GitHub Repository](https://github.com/clairte/Day-In-A-Life){target="_blank"}
+
+<iframe src="https://homeless-simulator.vercel.app" width="100%" height="500px">
+
+</iframe>

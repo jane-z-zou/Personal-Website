@@ -1,14 +1,15 @@
 ---
-title: Sustainable Los Angeles Grand Challenge
+title: 2024/06 - Sustainable Los Angeles Grand Challenge
+image: slagc.png
 ---
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Research Assistant*
+*Principal Investigator*
 :::
 
 ::: {style="float: right;"}
-September 2023 - Present
+September 2023 - June 2024
 :::
 :::
 

@@ -1,10 +1,11 @@
 ---
-title: OkTY
+title: 2023/12 - OkTY
+image: okty.png
 ---
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Project Lead*
+*Senior Strategy Consultant*
 :::
 
 ::: {style="float: right;"}

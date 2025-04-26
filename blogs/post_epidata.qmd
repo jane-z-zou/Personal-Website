@@ -1,10 +1,11 @@
 ---
-title: EpiData
+title: 2023/03 - EpiData
+image: ed.png
 ---
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Project Lead*
+*Senior Strategy Consultant*
 :::
 
 ::: {style="float: right;"}
@@ -26,4 +27,3 @@ September 2022 - March 2023
 
 </iframe>
 :::
-

@@ -22,6 +22,6 @@ image: chat_pfp.png
 
 ### Project Manager Specializing in Data Science and Generative AI
 
-Hi, I’m Jane. I apply my background in statistics, data science, and project management to design and deliver generative AI solutions for tax use cases. As a Project Manager at PwC, I lead cross-functional initiatives that translate complex regulatory and financial data into automated, insight-driven workflows, driving accuracy, efficiency, and strategic value for clients.
+Hi, I'm Jane. I apply my background in statistics, data science, and project management to design and deliver generative AI solutions for tax use cases. As a Project Manager at PwC, I lead cross-functional initiatives that translate complex regulatory and financial data into automated, insight-driven workflows, driving accuracy, efficiency, and strategic value for clients.
 
 Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") to learn more about my qualifications and experience.

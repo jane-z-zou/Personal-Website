@@ -1,11 +1,11 @@
-
 ---
-title: Statistics Based on Adjusted Metered Water Supply Manual (2001)
+title: 2024/02 - Statistics Based on Adjusted Metered Water Supply Manual (2001)
+image: stats.png
 ---
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Researcher*
+*Principal Investigator*
 :::
 
 ::: {style="float: right;"}
@@ -14,7 +14,7 @@ February 2024
 :::
 
 -   Proficient in statistical methodologies for identifying outliers in datasets relevant to determining surcharges and connection fees based on water quality parameters such as suspended solids (SS) and chemical oxygen demand (COD).
--   Experienced in utilizing Dixon’s Outlier Test and Rosner’s Generalized Extreme Studentized Deviate Test for outlier identification, Shapiro-Wilk Normality Test to assess the normality of data.
+-   Experienced in utilizing Dixon's Outlier Test and Rosner's Generalized Extreme Studentized Deviate Test for outlier identification, Shapiro-Wilk Normality Test to assess the normality of data.
 -   Strong understanding of the importance of robust outlier detection techniques in ensuring the accuracy and reliability of statistical analyses, particularly in water quality management contexts.
 
 ::: {#fig-RefCardR}

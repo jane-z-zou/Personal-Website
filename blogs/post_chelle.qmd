@@ -1,10 +1,11 @@
 ---
-title: Chelle AI
+title: 2024/03 - Chelle AI
+image: chelle.png
 ---
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Project Lead*
+*Senior Strategy Consultant*
 :::
 
 ::: {style="float: right;"}

@@ -6,7 +6,7 @@ title: "Professional Profile"
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-13th Annual Statistical Association UCLA DataFest Top Finalist
+[13th Annual Statistical Association UCLA DataFest Top Finalist](http://datafest.stat.ucla.edu){target="_blank"}
 :::
 
 ::: {style="float: right;"}
@@ -16,7 +16,7 @@ April 2024
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-Visa & Society of Women Engineers Scholarship
+[Visa & Society of Women Engineers Scholarship](https://ucla.swe.org){target="_blank"}
 :::
 
 ::: {style="float: right;"}
@@ -26,7 +26,7 @@ May 2023
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-Third Place Break Through Tech AI Competition \@ UCLA, MIT, Cornell Tech AI Studio
+[Break Through Tech AI Competition \@ UCLA, MIT, Cornell Tech AI Studio](https://www.kaggle.com/competitions/breakthrough-tech-ai-studio-challenge){target="_blank"}
 :::
 
 ::: {style="float: right;"}
@@ -36,7 +36,7 @@ March 2023
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-UCLA Machine Learning Top Contributor
+[UCLA Break Through Tech AI Machine Learning Top Contributor](https://www.breakthroughtech.org/programs/the-ai-program/){target="_blank"}
 :::
 
 ::: {style="float: right;"}
@@ -46,7 +46,7 @@ March 2023
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-Major League Hacking Housing Insecurity First Place
+[Major League Hacking Housing Insecurity First Place](https://www.qwerhacks.com){target="_blank"}
 :::
 
 ::: {style="float: right;"}
@@ -56,7 +56,7 @@ February 2023
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-Major League Hacking Best Mobile App
+[Major League Hacking Best Mobile App](https://www.qwerhacks.com){target="_blank"}
 :::
 
 ::: {style="float: right;"}
@@ -66,7 +66,7 @@ February 2023
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-Orange County Centennial Scholarship
+[Orange County Centennial Scholarship](https://www.oc-cf.org/scholarships/){target="_blank"}
 :::
 
 ::: {style="float: right;"}
@@ -76,7 +76,7 @@ August 2021
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-NCWIT Aspirations in Computing Affiliate Honorable Mention
+[NCWIT Aspirations in Computing Affiliate Honorable Mention](https://www.aspirations.org/award-programs/aic-high-school-award){target="_blank"}
 :::
 
 ::: {style="float: right;"}
@@ -86,17 +86,7 @@ June 2021
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-Azusa Pacific University President's Scholarship
-:::
-
-::: {style="float: right;"}
-June 2021
-:::
-:::
-
-::: {style="overflow: hidden;"}
-::: {style="float: left;"}
-Voice of Democracy Post 10694 Santa Ana First Place
+[Voice of Democracy Post 10694 Santa Ana First Place](https://www.facebook.com/VFWPOST10694SantaAna/){target="_blank"}
 :::
 
 ::: {style="float: right;"}
@@ -105,6 +95,26 @@ June 2021
 :::
 
 ## Professional Membership
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+Break Through Tech AI \@ UCLA
+:::
+
+::: {style="float: right;"}
+June 2022 - April 2025
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+DataResolutions
+:::
+
+::: {style="float: right;"}
+October 2021 - December 2024
+:::
+:::
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
@@ -133,16 +143,6 @@ American Statistical Association
 
 ::: {style="float: right;"}
 May 2022 - April 2024
-:::
-:::
-
-::: {style="overflow: hidden;"}
-::: {style="float: left;"}
-DataResolutions
-:::
-
-::: {style="float: right;"}
-October 2021 - April 2024
 :::
 :::
 
@@ -195,11 +195,3 @@ Society of Women Engineers
 October 2021 - May 2023
 :::
 :::
-
-## Technical Skills
-
-**Programming Languages:** Python, R, Tableau, Power BI, C++, Git, Microsoft Excel, HTML, CSS, SQL
-
-**Machine Learning:** Gradient Boosting, Clustering, Collaborative Filtering, Natural Language Processing (NLP), Artificial Intelligence Safety and Ethics, Time Series Analysis, and Feature Engineering
-
-**Business and Domain Knowledge:** Figma, NetSuite, Product Management, Agile and Scrum Methodologies, GIS, Canva, Jira, Slack, Google Analytics

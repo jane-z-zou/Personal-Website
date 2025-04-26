@@ -1,10 +1,11 @@
 ---
-title: 13th Annual ASA DataFest
+title: 2024/04 - 13th Annual ASA DataFest
+image: ds13.png
 ---
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Data Scientist, Lead Developer*
+*Lead Developer*
 :::
 
 ::: {style="float: right;"}

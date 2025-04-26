@@ -1,10 +1,11 @@
 ---
-title: SARE Ladies
+title: 2023/06 - SARE Ladies
+image: sare.png
 ---
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Project Consultant*
+*Strategy Consultant*
 :::
 
 ::: {style="float: right;"}

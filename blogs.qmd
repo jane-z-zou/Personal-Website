@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+toc: false
 listing: 
   - id: blogs-listing
     contents: 
@@ -8,10 +9,10 @@ listing:
     sort-ui: true
     filter-ui: true
     type: grid
+    grid-columns: 3
     fields:
       - title
+      - description
+      - image
     categories: false
 ---
-
-::: blogs-listing
-:::

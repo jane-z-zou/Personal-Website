@@ -1,10 +1,11 @@
 ---
-title: Pedestrian IoT Analysis
+title: 2023/09 - Pedestrian IoT Analysis
+image: peds.png
 ---
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Project Lead*
+*Senior Data Specialist*
 :::
 
 ::: {style="float: right;"}
