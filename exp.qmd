@@ -11,7 +11,7 @@ format: html
 :::
 
 ::: {style="float: right;"}
-June 2023 - August 2024
+June 2023 - Present
 :::
 :::
 
@@ -19,7 +19,6 @@ June 2023 - August 2024
 -   Boosted model precision by 20% through the implementation of demographic profiling and NLP, enhancing classification accuracy in automated tax form analysis.
 -   Developed a Python-based chatbot for a national nonprofit within 3 weeks, increasing user engagement by 70% for 1,200 students.
 -   Visualized tax advisory performance trends using Tableau and Plotly, delivering dynamic dashboards that streamlined decision-making for senior stakeholders and improved service quality metrics by 35%.
-
 
 ## Jules Stein Eye Institute
 

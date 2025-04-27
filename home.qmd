@@ -1,27 +1,63 @@
 ---
-toc: false
+toc: true 
 about: 
-  template: trestles
+  template: trestles 
   links: 
-  - icon: linkedin
-    text: LinkedIn
-    url: https://www.linkedin.com/in/jane-zou-datascience/
-  - icon: github
-    text: GitHub
-    url: https://github.com/jane-z-zou
-  - icon: email
-    text: Email
-    url: mailto:janezou2013@gmail.com
-  - text: ORCID 
-    url: https://orcid.org/0009-0001-3887-6097
-
-image: chat_pfp.png
+    - icon: linkedin 
+      text: LinkedIn 
+      url: https://www.linkedin.com/in/jane-zou-datascience/ 
+    - icon: github 
+      text: GitHub 
+      url: https://github.com/jane-z-zou 
+    - icon: email 
+      text: Email 
+      url: mailto:janezou2013@gmail.com 
+    - text: ORCID 
+      url: https://orcid.org/0009-0001-3887-6097 
+image: chat_pfp.png 
+page-layout: full 
 ---
 
-# Jane Zou
+# Jane Zou {.section}
 
 ### Project Manager Specializing in Data Science and Generative AI
 
-Hi, I'm Jane. I apply my background in statistics, data science, and project management to design and deliver generative AI solutions for tax use cases. As a Project Manager at PwC, I lead cross-functional initiatives that translate complex regulatory and financial data into automated, insight-driven workflows, driving accuracy, efficiency, and strategic value for clients.
+Hi, I'm Jane. I apply my background in statistics, data science, and project management to design and deliver generative AI solutions for tax use cases. 📊🤖
 
-Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") to learn more about my qualifications and experience.
+As a Project Manager at PwC, I lead cross-functional initiatives that translate complex regulatory and financial data into automated, insight-driven workflows, driving accuracy, efficiency, and strategic value for clients. 🚀💼
+
+Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") to learn more about my qualifications and experience. 📄✨
+
+------------------------------------------------------------------------
+
+# Experience {.section}
+
+### Highlights
+
+- **Project Manager** @ PwC — Led cross-functional teams to deliver generative AI solutions for complex regulatory challenges, driving efficiency, accuracy, and strategic value. 💼🤖  
+- **Data Scientist** @ Jules Stein Eye Institute — Applied advanced data science techniques to medical data, improving patient outcomes and advancing healthcare research with predictive models. 🏥🔬  
+- **Lead Machine Learning Engineer** @ American Express — Developed and deployed machine learning pipelines, scaling to millions of records to enhance fraud detection and boost ROI. 💳💡
+
+[View Full Experience ➔](exp.qmd) 📑
+
+------------------------------------------------------------------------
+
+# Projects {.section}
+
+- **Principal Investigator** @ Sustainable Los Angeles Grand Challenge — Integrated geospatial and environmental data to influence multi-million-dollar transportation investments, advocating for data-driven urban planning. 🚇🌍  
+- **Lead Developer** @ 13th Annual ASA DataFest — Achieved finalist status, leading a team to optimize educational content and improve student engagement through data-driven insights. 📚📈  
+- **Senior Strategy Consultant** @ Chelle — Created advanced knowledge graphs to transform raw data into actionable insights, enabling deep exploration of relationships and key data points. 📊🔗
+
+[View All Projects ➔](blogs.qmd) 💼
+
+------------------------------------------------------------------------
+
+# Professional Profile {.section}
+
+### About Me
+
+I believe in using data to solve complex problems with a focus on empathy, precision, and creativity, delivering solutions that drive real change. I bring a human-centered approach to every project, transforming insights into innovative workflows that make a difference. 💡💭
+
+Outside of work, I thrive on continuous growth through reading speculative fiction, crafting, or vlogging everyday moments. I value connection, creativity, and authenticity in all that I do. 📖🧶📸
+
+[View Full Profile ➔](prof.qmd) 👤

@@ -13,17 +13,20 @@ September 2023 - June 2024
 :::
 :::
 
--   Contribute to innovative projects aimed at addressing environmental challenges in the Los Angeles area.
--   Strong analytical skills and passion for making a positive impact on local communities through research and collaboration.
+-   Integrated LA Metro and CalEnviroScreen data using geospatial and environmental modeling in Python to support transit decisions.
+-   Authored a 30-page policy report influencing funding allocation strategies with impact on \$50M+ in transportation investments.
+-   Led research on transportation equity for 5M LA residents and presented findings to city officials, advocating for data-driven urban planning to reduce transit inequities in underserved communities.
+
 
 ::: {#fig-RefCardR}
-<iframe width="100%" height="600" src="SLAGC W24 LA Report Card Progress Slides.pdf">
+<iframe width="100%" height="600" src="slagc_final.pdf">
 
 </iframe>
 :::
 
 ::: {#fig-RefCardR}
-<iframe width="100%" height="600" src="SLAGC Group Project Proposal (Updated Winter 2024).pdf">
+<iframe width="100%" height="600" src="SLAGC Transportation Report.pdf">
 
 </iframe>
 :::
+

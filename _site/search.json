@@ -39,7 +39,7 @@
     "href": "home.html",
     "title": "Jane Zou",
     "section": "",
-    "text": "Jane Zou\n\nProject Manager Specializing in Data Science and Generative AI\nHi, I’m Jane. I apply my background in statistics, data science, and project management to design and deliver generative AI solutions for tax use cases. As a Project Manager at PwC, I lead cross-functional initiatives that translate complex regulatory and financial data into automated, insight-driven workflows, driving accuracy, efficiency, and strategic value for clients.\nExplore my current Resumé to learn more about my qualifications and experience."
+    "text": "Jane Zou\n\nProject Manager Specializing in Data Science and Generative AI\nHi, I’m Jane. I apply my background in statistics, data science, and project management to design and deliver generative AI solutions for tax use cases. 📊🤖\nAs a Project Manager at PwC, I lead cross-functional initiatives that translate complex regulatory and financial data into automated, insight-driven workflows, driving accuracy, efficiency, and strategic value for clients. 🚀💼\nExplore my current Resumé to learn more about my qualifications and experience. 📄✨\n\n\n\n\nExperience\n\nHighlights\n\nProject Manager @ PwC — Led cross-functional teams to deliver generative AI solutions for complex regulatory challenges, driving efficiency, accuracy, and strategic value. 💼🤖\n\nData Scientist @ Jules Stein Eye Institute — Applied advanced data science techniques to medical data, improving patient outcomes and advancing healthcare research with predictive models. 🏥🔬\n\nLead Machine Learning Engineer @ American Express — Developed and deployed machine learning pipelines, scaling to millions of records to enhance fraud detection and boost ROI. 💳💡\n\nView Full Experience ➔ 📑\n\n\n\n\nProjects\n\nPrincipal Investigator @ Sustainable Los Angeles Grand Challenge — Integrated geospatial and environmental data to influence multi-million-dollar transportation investments, advocating for data-driven urban planning. 🚇🌍\n\nLead Developer @ 13th Annual ASA DataFest — Achieved finalist status, leading a team to optimize educational content and improve student engagement through data-driven insights. 📚📈\n\nSenior Strategy Consultant @ Chelle — Created advanced knowledge graphs to transform raw data into actionable insights, enabling deep exploration of relationships and key data points. 📊🔗\n\nView All Projects ➔ 💼\n\n\n\nProfessional Profile\n\nAbout Me\nI believe in using data to solve complex problems with a focus on empathy, precision, and creativity, delivering solutions that drive real change. I bring a human-centered approach to every project, transforming insights into innovative workflows that make a difference. 💡💭\nOutside of work, I thrive on continuous growth through reading speculative fiction, crafting, or vlogging everyday moments. I value connection, creativity, and authenticity in all that I do. 📖🧶📸\nView Full Profile ➔ 👤"
   },
   {
     "objectID": "home.html#about-me",
@@ -60,7 +60,7 @@
     "href": "blogs/post_slagc.html",
     "title": "2024/06 - Sustainable Los Angeles Grand Challenge",
     "section": "",
-    "text": "Principal Investigator\n\n\nSeptember 2023 - June 2024\n\n\n\nContribute to innovative projects aimed at addressing environmental challenges in the Los Angeles area.\nStrong analytical skills and passion for making a positive impact on local communities through research and collaboration.\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\nFigure 2"
+    "text": "Principal Investigator\n\n\nSeptember 2023 - June 2024\n\n\n\nIntegrated LA Metro and CalEnviroScreen data using geospatial and environmental modeling in Python to support transit decisions.\nAuthored a 30-page policy report influencing funding allocation strategies with impact on $50M+ in transportation investments.\nLed research on transportation equity for 5M LA residents and presented findings to city officials, advocating for data-driven urban planning to reduce transit inequities in underserved communities.\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\nFigure 2"
   },
   {
     "objectID": "blogs/post_homedescription.html",
@@ -222,5 +222,33 @@
     "title": "Jane Zou",
     "section": "",
     "text": "Hi, I’m Jane. I apply my background in statistics, data science, and project management to design and deliver generative AI solutions for tax use cases. As a Project Manager at PwC, I lead cross-functional initiatives that translate complex regulatory and financial data into automated, insight-driven workflows, driving accuracy, efficiency, and strategic value for clients.\nExplore my current Resumé to learn more about my qualifications and experience."
+  },
+  {
+    "objectID": "home.html#experience",
+    "href": "home.html#experience",
+    "title": "Jane Zou",
+    "section": "",
+    "text": "Project Manager @ PwC — Led generative AI initiatives for tax advisory.\nData Science Researcher — Specialized in natural language processing for regulatory datasets.\nTeaching Assistant — Statistics and Data Visualization courses.\n\nView Full Experience ➔"
+  },
+  {
+    "objectID": "home.html#projects",
+    "href": "home.html#projects",
+    "title": "Jane Zou",
+    "section": "",
+    "text": "Homelessness Simulator — Designed an interactive model to simulate policy impacts.\nDinosaur Image Classifier — Built and deployed a deep learning image recognition model.\nBook Recommendation Engine — Created a local AI app for personal reading lists.\n\nView All Projects ➔"
+  },
+  {
+    "objectID": "home.html#professional-profile",
+    "href": "home.html#professional-profile",
+    "title": "Jane Zou",
+    "section": "",
+    "text": "I believe in using data-driven insights to solve real-world problems with empathy, precision, and creativity. Outside of work, I enjoy exploring speculative fiction, crafting cozy projects, and capturing everyday moments.\nView Full Profile ➔"
+  },
+  {
+    "objectID": "home.html#project-manager-specializing-in-data-science-and-generative-ai",
+    "href": "home.html#project-manager-specializing-in-data-science-and-generative-ai",
+    "title": "Jane Zou",
+    "section": "",
+    "text": "Hi, I’m Jane. I apply my background in statistics, data science, and project management…\n(etc. all your other sections here)"
   }
 ]
