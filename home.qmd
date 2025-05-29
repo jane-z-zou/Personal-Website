@@ -14,7 +14,7 @@ about:
       url: mailto:janezou2013@gmail.com 
     - text: ORCID 
       url: https://orcid.org/0009-0001-3887-6097 
-image: chat_pfp.png 
+image: 1748506690162.jpeg 
 page-layout: full 
 ---
 
@@ -34,9 +34,9 @@ Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") 
 
 ### Highlights
 
-- **Project Manager** @ PwC — Led cross-functional teams to deliver generative AI solutions for complex regulatory challenges, driving efficiency, accuracy, and strategic value. 💼🤖  
-- **Data Scientist** @ Jules Stein Eye Institute — Applied advanced data science techniques to medical data, improving patient outcomes and advancing healthcare research with predictive models. 🏥🔬  
-- **Lead Machine Learning Engineer** @ American Express — Developed and deployed machine learning pipelines, scaling to millions of records to enhance fraud detection and boost ROI. 💳💡
+-   **Project Manager** \@ PwC --- Led cross-functional teams to deliver generative AI solutions for complex regulatory challenges, driving efficiency, accuracy, and strategic value. 💼🤖\
+-   **Data Scientist** \@ Jules Stein Eye Institute --- Applied advanced data science techniques to medical data, improving patient outcomes and advancing healthcare research with predictive models. 🏥🔬\
+-   **Lead Machine Learning Engineer** \@ American Express --- Developed and deployed machine learning pipelines, scaling to millions of records to enhance fraud detection and boost ROI. 💳💡
 
 [View Full Experience ➔](exp.qmd) 📑
 
@@ -44,9 +44,9 @@ Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") 
 
 # Projects {.section}
 
-- **Principal Investigator** @ Sustainable Los Angeles Grand Challenge — Integrated geospatial and environmental data to influence multi-million-dollar transportation investments, advocating for data-driven urban planning. 🚇🌍  
-- **Lead Developer** @ 13th Annual ASA DataFest — Achieved finalist status, leading a team to optimize educational content and improve student engagement through data-driven insights. 📚📈  
-- **Senior Strategy Consultant** @ Chelle — Created advanced knowledge graphs to transform raw data into actionable insights, enabling deep exploration of relationships and key data points. 📊🔗
+-   **Principal Investigator** \@ Sustainable Los Angeles Grand Challenge --- Integrated geospatial and environmental data to influence multi-million-dollar transportation investments, advocating for data-driven urban planning. 🚇🌍\
+-   **Lead Developer** \@ 13th Annual ASA DataFest --- Achieved finalist status, leading a team to optimize educational content and improve student engagement through data-driven insights. 📚📈\
+-   **Senior Strategy Consultant** \@ Chelle --- Created advanced knowledge graphs to transform raw data into actionable insights, enabling deep exploration of relationships and key data points. 📊🔗
 
 [View All Projects ➔](blogs.qmd) 💼
 
