@@ -1,0 +1,27 @@
+---
+title: 2025/06 - NoteFlow
+image: nf-logo.png
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Software Engineer*
+:::
+
+::: {style="float: right;"}
+June 2025
+:::
+:::
+
+-   Architected a full-stack Canva extension using React, TypeScript, and Flask to generate AI-driven speaker notes from slide input in real time that integrated Hugging Face's TinyLlama model for on-demand text generation.
+-   Designed a modular prompt injection system supporting dynamic tone, pacing, and structure inputs to enable 5 user-selectable speaking tones via system prompt variations.
+-   Implemented pacing constraints using token estimation and post-generation WPM analysis to align output with user-defined durations (15s--5min).
+-   Developed frontend features including live tone previews, duration sliders, and toggleable add-ons (Main Idea, Transitions), using Canva's App UI Kit to optimize for responsive performance with sub-10s round trip latency.
+
+You can view the source code on [GitHub](https://github.com/jane-z-zou/noteflow) and the demo on [YouTube](https://youtu.be/fg9b5twAIu8?feature=shared).
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="NoteFlow.pdf">
+
+</iframe>
+:::

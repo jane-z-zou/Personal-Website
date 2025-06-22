@@ -44,8 +44,8 @@ Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") 
 
 # Projects {.section}
 
--   **Principal Investigator** \@ Sustainable Los Angeles Grand Challenge --- Integrated geospatial and environmental data to influence multi-million-dollar transportation investments, advocating for data-driven urban planning. 🚇🌍\
--   **Lead Developer** \@ 13th Annual ASA DataFest --- Achieved finalist status, leading a team to optimize educational content and improve student engagement through data-driven insights. 📚📈\
+-   **Software Engineer** \@ NoteFlow with Folioworks + Canva --- Built a Canva AI extension that generates speaker notes with tone control, timing, and live preview using TinyLlama + Hugging Face. 🎤🧠\
+-   **Software Engineer** \@ EditGuru with Folioworks + Canva --- Created a Canva extension that tracks slide edits by user, surfacing collaboration insights with real-time summaries and contribution metrics. 🧩📊\
 -   **Senior Strategy Consultant** \@ Chelle --- Created advanced knowledge graphs to transform raw data into actionable insights, enabling deep exploration of relationships and key data points. 📊🔗
 
 [View All Projects ➔](blogs.qmd) 💼
@@ -58,6 +58,6 @@ Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") 
 
 I believe in using data to solve complex problems with a focus on empathy, precision, and creativity, delivering solutions that drive real change. I bring a human-centered approach to every project, transforming insights into innovative workflows that make a difference. 💡💭
 
-Outside of work, I thrive on continuous growth through reading speculative fiction, crafting, or vlogging everyday moments. I value connection, creativity, and authenticity in all that I do. 📖🧶📸
+My work is rooted in the belief that kindness matters, and I hope to build things that reflect that. Outside of work, I thrive on continuous growth through reading speculative and science fiction, crafting, or vlogging everyday moments. I value connection, creativity, and authenticity in all that I do. 📖🧶📸
 
-[View Full Profile ➔](prof.qmd) 👤
+[View Full Profile ➔](prof.qmd) 👩🏻‍💻

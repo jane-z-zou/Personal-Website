@@ -1,0 +1,29 @@
+---
+title: 2025/06 - EditGuru
+image: eg-logo.png
+---
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
+*Software Engineer*
+:::
+
+::: {style="float: right;"}
+June 2025
+:::
+:::
+
+-   Engineered a full-stack Canva extension using React, TypeScript, and Flask to visualize edit histories within collaborative slide decks, tracking user actions, timestamps, and edit types in real time.
+-   Implemented dynamic contribution analysis logic, including user-slide mappings, edit frequency scoring, and inactivity tagging, with customizable filters and grouping (by user, slide, or time).
+-   Developed a feedback generation module that converts raw contribution metrics into human-readable summaries, using conditional logic and structured thresholds to assign visual flags.
+-   Built a modular and extensible front-end interface with Canva’s App UI Kit, featuring real-time sorting, contribution summaries, and export-ready stats for instructors and team leads.
+-   Designed API-ready backend routes for future integration with persistent data stores and LMS tools; current implementation simulates live editing data via mock JSON endpoints.
+
+You can view the source code on [GitHub](https://github.com/jane-z-zou/editguru) and the demo on [YouTube](https://www.youtube.com/watch?v=hC_2CqlVkBg).
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="600" src="EditGuru.pdf">
+
+</iframe>
+:::
+
