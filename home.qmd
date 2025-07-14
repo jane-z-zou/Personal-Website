@@ -20,11 +20,11 @@ page-layout: full
 
 # Jane Zou {.section}
 
-### Associate, Product Development & Technology – Specialized Tax Services
+### Associate, Platform Development – Specialized Tax Services
 
-Hi, I’m Jane. Leveraging my expertise in statistics, data science, & project management, I design & deliver generative AI solutions tailored for tax applications. 📊🤖
+Hi, I'm Jane. Leveraging my expertise in statistics, data science, & project management, I design & deliver generative AI solutions tailored for tax applications. 📊🤖
 
-At PwC, I lead cross-functional teams to transform complex regulatory & financial data into automated, insight-rich workflows—boosting accuracy, efficiency, & strategic impact for clients. 🚀💼
+At PwC, I lead cross-functional teams to transform complex regulatory & financial data into automated, insight-rich workflows---boosting accuracy, efficiency, & strategic impact for clients. 🚀💼
 
 Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") to learn more about my qualifications & experience. 📄✨
 

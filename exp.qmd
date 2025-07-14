@@ -7,7 +7,7 @@ format: html
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Product Development & Technology Associate*
+*Associate, Platform Development – Specialized Tax Services*
 :::
 
 ::: {style="float: right;"}
