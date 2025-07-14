@@ -20,13 +20,13 @@ page-layout: full
 
 # Jane Zou {.section}
 
-### Project Manager Specializing in Data Science and Generative AI
+### Associate, Product Development & Technology – Specialized Tax Services
 
-Hi, I'm Jane. I apply my background in statistics, data science, and project management to design and deliver generative AI solutions for tax use cases. 📊🤖
+Hi, I’m Jane. Leveraging my expertise in statistics, data science, & project management, I design & deliver generative AI solutions tailored for tax applications. 📊🤖
 
-As a Project Manager at PwC, I lead cross-functional initiatives that translate complex regulatory and financial data into automated, insight-driven workflows, driving accuracy, efficiency, and strategic value for clients. 🚀💼
+At PwC, I lead cross-functional teams to transform complex regulatory & financial data into automated, insight-rich workflows—boosting accuracy, efficiency, & strategic impact for clients. 🚀💼
 
-Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") to learn more about my qualifications and experience. 📄✨
+Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") to learn more about my qualifications & experience. 📄✨
 
 ------------------------------------------------------------------------
 
@@ -34,9 +34,9 @@ Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") 
 
 ### Highlights
 
--   **Project Manager** \@ PwC --- Led cross-functional teams to deliver generative AI solutions for complex regulatory challenges, driving efficiency, accuracy, and strategic value. 💼🤖\
--   **Data Scientist** \@ Jules Stein Eye Institute --- Applied advanced data science techniques to medical data, improving patient outcomes and advancing healthcare research with predictive models. 🏥🔬\
--   **Lead Machine Learning Engineer** \@ American Express --- Developed and deployed machine learning pipelines, scaling to millions of records to enhance fraud detection and boost ROI. 💳💡
+-   **Product Development & Technology Associate** \@ PwC --- Leading the creation & delivery of generative AI tools that streamlined complex regulatory processes, increasing accuracy & strategic impact. 💼🤖\
+-   **Data Scientist** \@ Jules Stein Eye Institute --- Applied advanced data science techniques to medical data, improving patient outcomes & advancing healthcare research with predictive models. 🏥🔬\
+-   **Lead Machine Learning Engineer** \@ American Express --- Developed & deployed machine learning pipelines, scaling to millions of records to enhance fraud detection & boost ROI. 💳💡
 
 [View Full Experience ➔](exp.qmd) 📑
 
@@ -44,9 +44,9 @@ Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") 
 
 # Projects {.section}
 
--   **Software Engineer** \@ NoteFlow with Folioworks + Canva --- Built a Canva AI extension that generates speaker notes with tone control, timing, and live preview using TinyLlama + Hugging Face. 🎤🧠\
--   **Software Engineer** \@ EditGuru with Folioworks + Canva --- Created a Canva extension that tracks slide edits by user, surfacing collaboration insights with real-time summaries and contribution metrics. 🧩📊\
--   **Senior Strategy Consultant** \@ Chelle --- Created advanced knowledge graphs to transform raw data into actionable insights, enabling deep exploration of relationships and key data points. 📊🔗
+-   **Software Engineer** \@ NoteFlow with Folioworks + Canva --- Built a Canva AI extension that generates speaker notes with tone control, timing, & live preview using TinyLlama + Hugging Face. 🎤🧠\
+-   **Software Engineer** \@ EditGuru with Folioworks + Canva --- Created a Canva extension that tracks slide edits by user, surfacing collaboration insights with real-time summaries & contribution metrics. 🧩📊\
+-   **Senior Strategy Consultant** \@ Chelle --- Created advanced knowledge graphs to transform raw data into actionable insights, enabling deep exploration of relationships & key data points. 📊🔗
 
 [View All Projects ➔](blogs.qmd) 💼
 
@@ -56,8 +56,8 @@ Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") 
 
 ### About Me
 
-I believe in using data to solve complex problems with a focus on empathy, precision, and creativity, delivering solutions that drive real change. I bring a human-centered approach to every project, transforming insights into innovative workflows that make a difference. 💡💭
+I believe in using data to solve complex problems with a focus on empathy, precision, & creativity, delivering solutions that drive real change. I bring a human-centered approach to every project, transforming insights into innovative workflows that make a difference. 💡💭
 
-My work is rooted in the belief that kindness matters, and I hope to build things that reflect that. Outside of work, I thrive on continuous growth through reading speculative and science fiction, crafting, or vlogging everyday moments. I value connection, creativity, and authenticity in all that I do. 📖🧶📸
+My work is rooted in the belief that kindness matters, & I hope to build things that reflect that. Outside of work, I thrive on continuous growth through reading speculative & science fiction, crafting, or vlogging everyday moments. I value connection, creativity, & authenticity in all that I do. 📖🧶📸
 
 [View Full Profile ➔](prof.qmd) 👩🏻‍💻
