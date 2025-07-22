@@ -44,7 +44,7 @@ Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") 
 
 # Projects {.section}
 
--   **Software Engineer** \@ NoteFlow with Folioworks + Canva --- Built a Canva AI extension that generates speaker notes with tone control, timing, & live preview using TinyLlama + Hugging Face. 🎤🧠\
+-   **Software Engineer** \@ NoteFlow with Folioworks + Canva --- Built a Canva AI extension that generates speaker notes with tone control, timing, and live preview using TinyLlama + Hugging Face — awarded first place in the engineering challenge. 🎤🧠\
 -   **Software Engineer** \@ EditGuru with Folioworks + Canva --- Created a Canva extension that tracks slide edits by user, surfacing collaboration insights with real-time summaries & contribution metrics. 🧩📊\
 -   **Senior Strategy Consultant** \@ Chelle --- Created advanced knowledge graphs to transform raw data into actionable insights, enabling deep exploration of relationships & key data points. 📊🔗
 

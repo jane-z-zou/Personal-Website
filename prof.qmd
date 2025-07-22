@@ -6,6 +6,16 @@ title: "Professional Profile"
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
+[Canva Folioworks Engineering Challenge First Place](https://app.folioworks.com/challenges){target="_blank"}
+:::
+
+::: {style="float: right;"}
+June 2025
+:::
+:::
+
+::: {style="overflow: hidden;"}
+::: {style="float: left;"}
 [13th Annual Statistical Association UCLA DataFest Top Finalist](http://datafest.stat.ucla.edu){target="_blank"}
 :::
 
