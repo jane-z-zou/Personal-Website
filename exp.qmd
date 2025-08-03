@@ -7,7 +7,7 @@ format: html
 
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
-*Associate, Platform Development – Specialized Tax Services*
+*Associate, AI Enablement & Platform Delivery -- Specialized Tax Services*
 :::
 
 ::: {style="float: right;"}
@@ -30,7 +30,6 @@ June 2024 - August 2024
 -   Engineered a full-stack AI platform using Streamlit & FastAPI, integrated with Azure Form Recognizer, cutting document processing time from 10 hours to 2 minutes & achieving 99% extraction accuracy across 10,000+ financial records.
 -   Improved model precision by 20% through demographic profiling & NLP techniques, boosting classification accuracy in automated tax form analysis.
 
-
 ::: {style="overflow: hidden;"}
 ::: {style="float: left;"}
 *Products & Technology Intern*
@@ -41,7 +40,7 @@ June 2023 - August 2023
 :::
 :::
 
--   Built a Python-based chatbot and interactive dashboards (Tableau, Plotly) for a national nonprofit, increasing engagement by 70% among 1,200 students and improving service quality metrics by 35% through enhanced data-driven decision-making.
+-   Built a Python-based chatbot & interactive dashboards (Tableau, Plotly) for a national nonprofit, increasing engagement by 70% among 1,200 students & improving service quality metrics by 35% through enhanced data-driven decision-making.
 
 ## Jules Stein Eye Institute
 

@@ -20,11 +20,11 @@ page-layout: full
 
 # Jane Zou {.section}
 
-### Associate, Platform Development – Specialized Tax Services
+### Associate, AI Enablement & Platform Delivery – Specialized Tax Services
 
 Hi, I'm Jane. Leveraging my expertise in statistics, data science, & project management, I design & deliver generative AI solutions tailored for tax applications. 📊🤖
 
-At PwC, I lead cross-functional teams to transform complex regulatory & financial data into automated, insight-rich workflows---boosting accuracy, efficiency, & strategic impact for clients. 🚀💼
+At PwC, I lead cross-functional teams to transform complex regulatory & financial data into automated, insight-rich workflows---boosting accuracy, efficiency, & strategic impact for clients and internal teams. 🚀💼
 
 Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") to learn more about my qualifications & experience. 📄✨
 
@@ -34,7 +34,7 @@ Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") 
 
 ### Highlights
 
--   **Product Development & Technology Associate** \@ PwC --- Leading the creation & delivery of generative AI tools that streamlined complex regulatory processes, increasing accuracy & strategic impact. 💼🤖\
+-   **AI Enablement & Platform Delivery Associate** \@ PwC --- Leading the creation & delivery of generative AI tools that streamlined complex regulatory processes, increasing accuracy & strategic impact. 💼🤖\
 -   **Data Scientist** \@ Jules Stein Eye Institute --- Applied advanced data science techniques to medical data, improving patient outcomes & advancing healthcare research with predictive models. 🏥🔬\
 -   **Lead Machine Learning Engineer** \@ American Express --- Developed & deployed machine learning pipelines, scaling to millions of records to enhance fraud detection & boost ROI. 💳💡
 
@@ -44,7 +44,7 @@ Explore my current [Resumé](/DOCS/Zou,Jane%20Resume.pdf "Zou,Jane Resume.pdf") 
 
 # Projects {.section}
 
--   **Software Engineer** \@ NoteFlow with Folioworks + Canva --- Built a Canva AI extension that generates speaker notes with tone control, timing, and live preview using TinyLlama + Hugging Face — awarded first place in the engineering challenge. 🎤🧠\
+-   **Software Engineer** \@ NoteFlow with Folioworks + Canva --- Built a Canva AI extension that generates speaker notes with tone control, timing, & live preview using TinyLlama + Hugging Face — awarded first place in the engineering challenge. 🎤🧠\
 -   **Software Engineer** \@ EditGuru with Folioworks + Canva --- Created a Canva extension that tracks slide edits by user, surfacing collaboration insights with real-time summaries & contribution metrics. 🧩📊\
 -   **Senior Strategy Consultant** \@ Chelle --- Created advanced knowledge graphs to transform raw data into actionable insights, enabling deep exploration of relationships & key data points. 📊🔗
 
